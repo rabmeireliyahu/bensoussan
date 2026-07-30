@@ -2,7 +2,8 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>Rabbi Duvi Bensoussan</title>
-    <description>Torah shiurim by Rabbi Duvi Bensoussan - Otzar HaTorah</description>
+    <description>Torah shiurim in English with Rabbi Duvi Bensoussan. Parsha, emunah, mussar, Sephardic halacha and practical guidance for everyday Jewish life - Otzar HaTorah.</description>
+    <itunes:summary>Torah shiurim in English with Rabbi Duvi Bensoussan. Parsha, emunah, mussar, Sephardic halacha and practical guidance for everyday Jewish life - Otzar HaTorah.</itunes:summary>
     <link>https://rabmeireliyahu.github.io/bensoussan</link>
     <language>en</language>
     <itunes:author>Rabbi Duvi Bensoussan</itunes:author>
