@@ -1,999 +1,1008 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-  <channel>
-    <title>Rabbi Duvi Bensoussan</title>
-    <description>Torah shiurim in English with Rabbi Duvi Bensoussan. Parsha, emunah, mussar, Sephardic halacha and practical guidance for everyday Jewish life - Otzar HaTorah.</description>
-    <itunes:summary>Torah shiurim in English with Rabbi Duvi Bensoussan. Parsha, emunah, mussar, Sephardic halacha and practical guidance for everyday Jewish life - Otzar HaTorah.</itunes:summary>
-    <link>https://rabmeireliyahu.github.io/bensoussan</link>
-    <language>en</language>
-    <itunes:author>Rabbi Duvi Bensoussan</itunes:author>
-    <itunes:owner>
-      <itunes:name>Rabbi Duvi Bensoussan</itunes:name>
-      <itunes:email>rabmeireliyahu@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://rabmeireliyahu.github.io/bensoussan/portada.jpg"/>
-    <itunes:category text="Religion &amp; Spirituality"/>
-    <itunes:explicit>false</itunes:explicit>
-    <item>
-      <title>How To Connect To Teens Amazing Story - Rabbi Duvi</title>
-      <description>How To Connect To Teens Amazing Story - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/How%20To%20Connect%20To%20Teens%20Amazing%20Story%20-%20Rabbi%20Duvi.mp3" length="16472109" type="audio/mpeg"/>
-      <guid isPermaLink="false">How To Connect To Teens Amazing Story - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 00:55:03 -0000</pubDate>
-      <itunes:duration>00:17:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Saving Our Teens From Dangers Of Social Media!!! - Rabbi Duvi</title>
-      <description>Saving Our Teens From Dangers Of Social Media!!! - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Saving%20Our%20Teens%20From%20Dangers%20Of%20Social%20Media%21%21%21%20-%20Rabbi%20Duvi.mp3" length="64449069" type="audio/mpeg"/>
-      <guid isPermaLink="false">Saving Our Teens From Dangers Of Social Media!!! - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 00:55:29 -0000</pubDate>
-      <itunes:duration>01:07:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Secret to Jewish Survival - Rabbi Duvi (2016)</title>
-      <description>The Secret to Jewish Survival - Rabbi Duvi (2016)</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Secret%20to%20Jewish%20Survival%20-%20Rabbi%20Duvi%20%282016%29.mp3" length="72352557" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Secret to Jewish Survival - Rabbi Duvi (2016).mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 00:56:59 -0000</pubDate>
-      <itunes:duration>01:15:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Loneliness vs The Need To Be Great - Rabbi Duvi</title>
-      <description>Loneliness vs The Need To Be Great - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Loneliness%20vs%20The%20Need%20To%20Be%20Great%20-%20Rabbi%20Duvi.mp3" length="67145133" type="audio/mpeg"/>
-      <guid isPermaLink="false">Loneliness vs The Need To Be Great - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 00:58:21 -0000</pubDate>
-      <itunes:duration>01:09:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Promise Never to Marry Another Amazing Story - Rabbi Duvi</title>
-      <description>The Promise Never to Marry Another Amazing Story - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Promise%20Never%20to%20Marry%20Another%20Amazing%20Story%20-%20Rabbi%20Duvi.mp3" length="13893549" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Promise Never to Marry Another Amazing Story - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 00:59:34 -0000</pubDate>
-      <itunes:duration>00:14:28</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Need To Be Great - Rabbi Duvi</title>
-      <description>The Need To Be Great - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Need%20To%20Be%20Great%20-%20Rabbi%20Duvi.mp3" length="39475629" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Need To Be Great - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 00:59:52 -0000</pubDate>
-      <itunes:duration>00:41:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bet Halevi： My Plan vs Hashem’s Plan - The Master Key of Bitachon - Rabbi Duvi Bensoussan</title>
-      <description>Bet Halevi： My Plan vs Hashem’s Plan - The Master Key of Bitachon - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bet%20Halevi%EF%BC%9A%20My%20Plan%20vs%20Hashem%E2%80%99s%20Plan%20-%20The%20Master%20Key%20of%20Bitachon%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="54394029" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bet Halevi： My Plan vs Hashem’s Plan - The Master Key of Bitachon - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:00:30 -0000</pubDate>
-      <itunes:duration>00:56:39</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>How I Fell 104ft at 82mph and Was Caught in a Pair of Tzitzit - Rabbi Duvi Bensoussan</title>
-      <description>How I Fell 104ft at 82mph and Was Caught in a Pair of Tzitzit - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/How%20I%20Fell%20104ft%20at%2082mph%20and%20Was%20Caught%20in%20a%20Pair%20of%20Tzitzit%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="14932269" type="audio/mpeg"/>
-      <guid isPermaLink="false">How I Fell 104ft at 82mph and Was Caught in a Pair of Tzitzit - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:01:17 -0000</pubDate>
-      <itunes:duration>00:15:33</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Sefirat Haomer R' Zecharya Wallerstein Zt”l - Secret Behind The 24000 Students of R' Akiva &amp; Zimri</title>
-      <description>Sefirat Haomer R' Zecharya Wallerstein Zt”l - Secret Behind The 24000 Students of R' Akiva &amp; Zimri</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Sefirat%20Haomer%20R%27%20Zecharya%20Wallerstein%20Zt%E2%80%9Dl%20-%20Secret%20Behind%20The%2024000%20Students%20of%20R%27%20Akiva%20%26%20Zimri.mp3" length="57861933" type="audio/mpeg"/>
-      <guid isPermaLink="false">Sefirat Haomer R' Zecharya Wallerstein Zt”l - Secret Behind The 24000 Students of R' Akiva &amp; Zimri.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:01:41 -0000</pubDate>
-      <itunes:duration>01:00:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Generation of Mashiach - The Generation of The Closed Door Society - Rabbi Duvi Bensoussan</title>
-      <description>The Generation of Mashiach - The Generation of The Closed Door Society - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Generation%20of%20Mashiach%20-%20The%20Generation%20of%20The%20Closed%20Door%20Society%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="58636077" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Generation of Mashiach - The Generation of The Closed Door Society - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:03:14 -0000</pubDate>
-      <itunes:duration>01:01:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bet Halevi： Bitachon #2： Nothing to Fear but Fear itself - The Story of the Elevator in The Leonardo</title>
-      <description>Bet Halevi： Bitachon #2： Nothing to Fear but Fear itself - The Story of the Elevator in The Leonardo</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bet%20Halevi%EF%BC%9A%20Bitachon%20%232%EF%BC%9A%20Nothing%20to%20Fear%20but%20Fear%20itself%20-%20The%20Story%20of%20the%20Elevator%20in%20The%20Leonardo.mp3" length="66385965" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bet Halevi： Bitachon #2： Nothing to Fear but Fear itself - The Story of the Elevator in The Leonardo.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:04:10 -0000</pubDate>
-      <itunes:duration>01:09:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Arizal Reveals： How to Open The Heavens to Accept Your Tefillot - Rabbi Duvi</title>
-      <description>The Arizal Reveals： How to Open The Heavens to Accept Your Tefillot - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Arizal%20Reveals%EF%BC%9A%20How%20to%20Open%20The%20Heavens%20to%20Accept%20Your%20Tefillot%20-%20Rabbi%20Duvi.mp3" length="48945453" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Arizal Reveals： How to Open The Heavens to Accept Your Tefillot - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:05:11 -0000</pubDate>
-      <itunes:duration>00:50:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>SEEING THE IMPOSSIBLE - Rabbi Duvi</title>
-      <description>SEEING THE IMPOSSIBLE - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/SEEING%20THE%20IMPOSSIBLE%20-%20Rabbi%20Duvi.mp3" length="9888813" type="audio/mpeg"/>
-      <guid isPermaLink="false">SEEING THE IMPOSSIBLE - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:05:56 -0000</pubDate>
-      <itunes:duration>00:10:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bet Halevi： Bitachon #5： Who Do You Rely On？ - Rabbi Duvi Bensoussan</title>
-      <description>Bet Halevi： Bitachon #5： Who Do You Rely On？ - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bet%20Halevi%EF%BC%9A%20Bitachon%20%235%EF%BC%9A%20Who%20Do%20You%20Rely%20On%EF%BC%9F%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="67567149" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bet Halevi： Bitachon #5： Who Do You Rely On？ - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:06:15 -0000</pubDate>
-      <itunes:duration>01:10:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bet Halevi： Bitachon #3： Empowering Who We Believe in - The Secret of Pop Pop - R'  Duvi Bensoussan</title>
-      <description>Bet Halevi： Bitachon #3： Empowering Who We Believe in - The Secret of Pop Pop - R'  Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bet%20Halevi%EF%BC%9A%20Bitachon%20%233%EF%BC%9A%20Empowering%20Who%20We%20Believe%20in%20-%20The%20Secret%20of%20Pop%20Pop%20-%20R%27%20%20Duvi%20Bensoussan.mp3" length="56855853" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bet Halevi： Bitachon #3： Empowering Who We Believe in - The Secret of Pop Pop - R'  Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:07:25 -0000</pubDate>
-      <itunes:duration>00:59:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>How to Get Hashem to Save You From Big Troubles - The Barber from Netanya Story - Rabbi Duvi</title>
-      <description>How to Get Hashem to Save You From Big Troubles - The Barber from Netanya Story - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/How%20to%20Get%20Hashem%20to%20Save%20You%20From%20Big%20Troubles%20-%20The%20Barber%20from%20Netanya%20Story%20-%20Rabbi%20Duvi.mp3" length="56492589" type="audio/mpeg"/>
-      <guid isPermaLink="false">How to Get Hashem to Save You From Big Troubles - The Barber from Netanya Story - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:08:24 -0000</pubDate>
-      <itunes:duration>00:58:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>We’re In A Free Country, What Is There to Cry About  - Rabbi Duvi (2014)</title>
-      <description>We’re In A Free Country, What Is There to Cry About  - Rabbi Duvi (2014)</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/We%E2%80%99re%20In%20A%20Free%20Country%2C%20What%20Is%20There%20to%20Cry%20About%20%20-%20Rabbi%20Duvi%20%282014%29.mp3" length="55476525" type="audio/mpeg"/>
-      <guid isPermaLink="false">We’re In A Free Country, What Is There to Cry About  - Rabbi Duvi (2014).mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:09:24 -0000</pubDate>
-      <itunes:duration>00:57:47</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bitachon Part 6 - Rabbi Duvi Bensoussan</title>
-      <description>Bitachon Part 6 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%206%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="54177069" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bitachon Part 6 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:10:18 -0000</pubDate>
-      <itunes:duration>00:56:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Great Focus on Good - The building blocks of Man - Rabbi Duvi Bensoussan</title>
-      <description>The Great Focus on Good - The building blocks of Man - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Great%20Focus%20on%20Good%20-%20The%20building%20blocks%20of%20Man%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="65656749" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Great Focus on Good - The building blocks of Man - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:11:09 -0000</pubDate>
-      <itunes:duration>01:08:23</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Steiplers Son, The Chazon Ish’s Nephew, Rav Elyashiv’s Son n Law - The Sar Hatorah zt”l - R Duvi</title>
-      <description>The Steiplers Son, The Chazon Ish’s Nephew, Rav Elyashiv’s Son n Law - The Sar Hatorah zt”l - R Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Steiplers%20Son%2C%20The%20Chazon%20Ish%E2%80%99s%20Nephew%2C%20Rav%20Elyashiv%E2%80%99s%20Son%20n%20Law%20-%20The%20Sar%20Hatorah%20zt%E2%80%9Dl%20-%20R%20Duvi.mp3" length="33629997" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Steiplers Son, The Chazon Ish’s Nephew, Rav Elyashiv’s Son n Law - The Sar Hatorah zt”l - R Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:12:10 -0000</pubDate>
-      <itunes:duration>00:35:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Shocking Truth： How Your Words Create Your Reality! - Rabbi Duvi</title>
-      <description>Shocking Truth： How Your Words Create Your Reality! - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Shocking%20Truth%EF%BC%9A%20How%20Your%20Words%20Create%20Your%20Reality%21%20-%20Rabbi%20Duvi.mp3" length="38046765" type="audio/mpeg"/>
-      <guid isPermaLink="false">Shocking Truth： How Your Words Create Your Reality! - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:12:43 -0000</pubDate>
-      <itunes:duration>00:39:37</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Budapest Hungary, Our Miracles and Adventure on the Way to Rav Shayell’e Yartzeit - Rabbi Duvi</title>
-      <description>Budapest Hungary, Our Miracles and Adventure on the Way to Rav Shayell’e Yartzeit - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Budapest%20Hungary%2C%20Our%20Miracles%20and%20Adventure%20on%20the%20Way%20to%20Rav%20Shayell%E2%80%99e%20Yartzeit%20-%20Rabbi%20Duvi.mp3" length="63447213" type="audio/mpeg"/>
-      <guid isPermaLink="false">Budapest Hungary, Our Miracles and Adventure on the Way to Rav Shayell’e Yartzeit - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:13:24 -0000</pubDate>
-      <itunes:duration>01:06:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Avraham Cried a Little - How to Keep Your Composure When Your Falling Apart - Rabbi Duvi</title>
-      <description>Avraham Cried a Little - How to Keep Your Composure When Your Falling Apart - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Avraham%20Cried%20a%20Little%20-%20How%20to%20Keep%20Your%20Composure%20When%20Your%20Falling%20Apart%20-%20Rabbi%20Duvi.mp3" length="47619501" type="audio/mpeg"/>
-      <guid isPermaLink="false">Avraham Cried a Little - How to Keep Your Composure When Your Falling Apart - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:14:27 -0000</pubDate>
-      <itunes:duration>00:49:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Yetzer Hara’s Deadliest Secret Technique Against Us… The Inch! - Rabbi Duvi</title>
-      <description>The Yetzer Hara’s Deadliest Secret Technique Against Us… The Inch! - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Yetzer%20Hara%E2%80%99s%20Deadliest%20Secret%20Technique%20Against%20Us%E2%80%A6%20The%20Inch%21%20-%20Rabbi%20Duvi.mp3" length="52312749" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Yetzer Hara’s Deadliest Secret Technique Against Us… The Inch! - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:15:13 -0000</pubDate>
-      <itunes:duration>00:54:29</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tisha Bav 2021： Mashiach vs It’s All About Me Syndrome - Rabbi Duvi</title>
-      <description>Tisha Bav 2021： Mashiach vs It’s All About Me Syndrome - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Tisha%20Bav%202021%EF%BC%9A%20Mashiach%20vs%20It%E2%80%99s%20All%20About%20Me%20Syndrome%20-%20Rabbi%20Duvi.mp3" length="77210925" type="audio/mpeg"/>
-      <guid isPermaLink="false">Tisha Bav 2021： Mashiach vs It’s All About Me Syndrome - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:16:10 -0000</pubDate>
-      <itunes:duration>01:20:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bitachon Part 3 - Rabbi Duvi Bensoussan</title>
-      <description>Bitachon Part 3 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%203%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="55377069" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bitachon Part 3 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:17:28 -0000</pubDate>
-      <itunes:duration>00:57:41</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Moshe Rabenu Yearning for Israel, The Only Antidote to the Meraglim Syndrome - Rabbi Duvi Bensoussan</title>
-      <description>Moshe Rabenu Yearning for Israel, The Only Antidote to the Meraglim Syndrome - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Moshe%20Rabenu%20Yearning%20for%20Israel%2C%20The%20Only%20Antidote%20to%20the%20Meraglim%20Syndrome%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="40637613" type="audio/mpeg"/>
-      <guid isPermaLink="false">Moshe Rabenu Yearning for Israel, The Only Antidote to the Meraglim Syndrome - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:18:17 -0000</pubDate>
-      <itunes:duration>00:42:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bet Halevi： Bitachon #4： Moshe Rabenu - Rav Hirsch’s Revelation of How Tefilla Elevates You - R Duvi</title>
-      <description>Bet Halevi： Bitachon #4： Moshe Rabenu - Rav Hirsch’s Revelation of How Tefilla Elevates You - R Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bet%20Halevi%EF%BC%9A%20Bitachon%20%234%EF%BC%9A%20Moshe%20Rabenu%20-%20Rav%20Hirsch%E2%80%99s%20Revelation%20of%20How%20Tefilla%20Elevates%20You%20-%20R%20Duvi.mp3" length="64148013" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bet Halevi： Bitachon #4： Moshe Rabenu - Rav Hirsch’s Revelation of How Tefilla Elevates You - R Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:19:24 -0000</pubDate>
-      <itunes:duration>01:06:49</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Do You Need a Yeshua？ - The Bitachon Recipe - Kriyat Yam Suf - Rabbi Duvi</title>
-      <description>Do You Need a Yeshua？ - The Bitachon Recipe - Kriyat Yam Suf - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Do%20You%20Need%20a%20Yeshua%EF%BC%9F%20-%20The%20Bitachon%20Recipe%20-%20Kriyat%20Yam%20Suf%20-%20Rabbi%20Duvi.mp3" length="64938669" type="audio/mpeg"/>
-      <guid isPermaLink="false">Do You Need a Yeshua？ - The Bitachon Recipe - Kriyat Yam Suf - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:20:30 -0000</pubDate>
-      <itunes:duration>01:07:38</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Corona vs The Kashrut Promise - Kosher Deli Pastrami Sandwiches - Rabbi Duvi</title>
-      <description>Corona vs The Kashrut Promise - Kosher Deli Pastrami Sandwiches - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Corona%20vs%20The%20Kashrut%20Promise%20-%20Kosher%20Deli%20Pastrami%20Sandwiches%20-%20Rabbi%20Duvi.mp3" length="36819885" type="audio/mpeg"/>
-      <guid isPermaLink="false">Corona vs The Kashrut Promise - Kosher Deli Pastrami Sandwiches - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:21:30 -0000</pubDate>
-      <itunes:duration>00:38:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bitachon Part 4 - Rabbi Duvi Bensoussan</title>
-      <description>Bitachon Part 4 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%204%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="52177197" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bitachon Part 4 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:22:04 -0000</pubDate>
-      <itunes:duration>00:54:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Nasso： Every Man Has a Redeemer - You’ll Never look at your Children the Same Again - Rabbi Duvi</title>
-      <description>Nasso： Every Man Has a Redeemer - You’ll Never look at your Children the Same Again - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Nasso%EF%BC%9A%20Every%20Man%20Has%20a%20Redeemer%20-%20You%E2%80%99ll%20Never%20look%20at%20your%20Children%20the%20Same%20Again%20-%20Rabbi%20Duvi.mp3" length="42182829" type="audio/mpeg"/>
-      <guid isPermaLink="false">Nasso： Every Man Has a Redeemer - You’ll Never look at your Children the Same Again - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:22:47 -0000</pubDate>
-      <itunes:duration>00:43:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Why The Snake Didn't Go After Adam - Amazing Story Of Rabbi Who Refused To Go Blind - Rabbi Duvi</title>
-      <description>Why The Snake Didn't Go After Adam - Amazing Story Of Rabbi Who Refused To Go Blind - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Why%20The%20Snake%20Didn%27t%20Go%20After%20Adam%20-%20Amazing%20Story%20Of%20Rabbi%20Who%20Refused%20To%20Go%20Blind%20-%20Rabbi%20Duvi.mp3" length="54158253" type="audio/mpeg"/>
-      <guid isPermaLink="false">Why The Snake Didn't Go After Adam - Amazing Story Of Rabbi Who Refused To Go Blind - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:23:25 -0000</pubDate>
-      <itunes:duration>00:56:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Pesach： The Night I Chose You! The Secret to True Freedom! - Rabbi Duvi Bensoussan</title>
-      <description>Pesach： The Night I Chose You! The Secret to True Freedom! - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Pesach%EF%BC%9A%20The%20Night%20I%20Chose%20You%21%20The%20Secret%20to%20True%20Freedom%21%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="69210285" type="audio/mpeg"/>
-      <guid isPermaLink="false">Pesach： The Night I Chose You! The Secret to True Freedom! - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:24:44 -0000</pubDate>
-      <itunes:duration>01:12:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Chazon Ish Defines BITACHON - The Secret Behind Nachshon &amp; The Umbrella - Rabbi Duvi</title>
-      <description>The Chazon Ish Defines BITACHON - The Secret Behind Nachshon &amp; The Umbrella - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Chazon%20Ish%20Defines%20BITACHON%20-%20The%20Secret%20Behind%20Nachshon%20%26%20The%20Umbrella%20-%20Rabbi%20Duvi.mp3" length="43629357" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Chazon Ish Defines BITACHON - The Secret Behind Nachshon &amp; The Umbrella - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:25:46 -0000</pubDate>
-      <itunes:duration>00:45:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bitachon Part 5 - Rabbi Duvi Bensoussan</title>
-      <description>Bitachon Part 5 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%205%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="54529197" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bitachon Part 5 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:26:30 -0000</pubDate>
-      <itunes:duration>00:56:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Pesach： The Three Keys of Wealth - The Secret for Chen - revealed by Rav Shamshon Refael Hirsch zt”l</title>
-      <description>Pesach： The Three Keys of Wealth - The Secret for Chen - revealed by Rav Shamshon Refael Hirsch zt”l</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Pesach%EF%BC%9A%20The%20Three%20Keys%20of%20Wealth%20-%20The%20Secret%20for%20Chen%20-%20revealed%20by%20Rav%20Shamshon%20Refael%20Hirsch%20zt%E2%80%9Dl.mp3" length="73001133" type="audio/mpeg"/>
-      <guid isPermaLink="false">Pesach： The Three Keys of Wealth - The Secret for Chen - revealed by Rav Shamshon Refael Hirsch zt”l.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:27:23 -0000</pubDate>
-      <itunes:duration>01:16:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Incredible Secrets behind Me’arat Hamachpela and the Power of 400 - Rabbi Duvi</title>
-      <description>The Incredible Secrets behind Me’arat Hamachpela and the Power of 400 - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Incredible%20Secrets%20behind%20Me%E2%80%99arat%20Hamachpela%20and%20the%20Power%20of%20400%20-%20Rabbi%20Duvi.mp3" length="43294125" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Incredible Secrets behind Me’arat Hamachpela and the Power of 400 - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:28:29 -0000</pubDate>
-      <itunes:duration>00:45:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Secret Behind How Shabbat Neutralizes Our Enemies - Rabbi Duvi</title>
-      <description>The Secret Behind How Shabbat Neutralizes Our Enemies - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Secret%20Behind%20How%20Shabbat%20Neutralizes%20Our%20Enemies%20-%20Rabbi%20Duvi.mp3" length="74135085" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Secret Behind How Shabbat Neutralizes Our Enemies - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:29:19 -0000</pubDate>
-      <itunes:duration>01:17:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bitachon Part 7 - Rabbi Duvi Bensoussan</title>
-      <description>Bitachon Part 7 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%207%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="43072941" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bitachon Part 7 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:30:31 -0000</pubDate>
-      <itunes:duration>00:44:52</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Shavuot： Are You Ready to Sacrifice for Your Learning - The Incredible Story of The Romanian Bulldog</title>
-      <description>Shavuot： Are You Ready to Sacrifice for Your Learning - The Incredible Story of The Romanian Bulldog</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Shavuot%EF%BC%9A%20Are%20You%20Ready%20to%20Sacrifice%20for%20Your%20Learning%20-%20The%20Incredible%20Story%20of%20The%20Romanian%20Bulldog.mp3" length="65922093" type="audio/mpeg"/>
-      <guid isPermaLink="false">Shavuot： Are You Ready to Sacrifice for Your Learning - The Incredible Story of The Romanian Bulldog.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:31:15 -0000</pubDate>
-      <itunes:duration>01:08:40</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Shavuot： The Essence of Torah - The Torah Alcoholic vs The Game of Monopoly - Rabbi Duvi Bensoussan</title>
-      <description>Shavuot： The Essence of Torah - The Torah Alcoholic vs The Game of Monopoly - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Shavuot%EF%BC%9A%20The%20Essence%20of%20Torah%20-%20The%20Torah%20Alcoholic%20vs%20The%20Game%20of%20Monopoly%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="60098349" type="audio/mpeg"/>
-      <guid isPermaLink="false">Shavuot： The Essence of Torah - The Torah Alcoholic vs The Game of Monopoly - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:32:31 -0000</pubDate>
-      <itunes:duration>01:02:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bitachon 6 Keristir BudapestTrip 5782The Inspiring Role Our Tzaddikim Play in Our Bitachon in Hashem</title>
-      <description>Bitachon 6 Keristir BudapestTrip 5782The Inspiring Role Our Tzaddikim Play in Our Bitachon in Hashem</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%206%20Keristir%20BudapestTrip%205782The%20Inspiring%20Role%20Our%20Tzaddikim%20Play%20in%20Our%20Bitachon%20in%20Hashem.mp3" length="69901101" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bitachon 6 Keristir BudapestTrip 5782The Inspiring Role Our Tzaddikim Play in Our Bitachon in Hashem.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:33:40 -0000</pubDate>
-      <itunes:duration>01:12:48</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bullet Proof Vest - Rabbi Duvi</title>
-      <description>Bullet Proof Vest - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bullet%20Proof%20Vest%20-%20Rabbi%20Duvi.mp3" length="10489389" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bullet Proof Vest - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:34:41 -0000</pubDate>
-      <itunes:duration>00:10:55</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Miami Safra Shul Chizuk Event： The Staff of Mashiach - Rabbi Duvi</title>
-      <description>The Miami Safra Shul Chizuk Event： The Staff of Mashiach - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Miami%20Safra%20Shul%20Chizuk%20Event%EF%BC%9A%20The%20Staff%20of%20Mashiach%20-%20Rabbi%20Duvi.mp3" length="83741613" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Miami Safra Shul Chizuk Event： The Staff of Mashiach - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:35:00 -0000</pubDate>
-      <itunes:duration>01:27:13</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Purim： The Final Showdown： The Bears vs The Eagles - Achashverosh, Stalin &amp; The USSR - R Duvi B</title>
-      <description>Purim： The Final Showdown： The Bears vs The Eagles - Achashverosh, Stalin &amp; The USSR - R Duvi B</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Purim%EF%BC%9A%20The%20Final%20Showdown%EF%BC%9A%20The%20Bears%20vs%20The%20Eagles%20-%20Achashverosh%2C%20Stalin%20%26%20The%20USSR%20-%20R%20Duvi%20B.mp3" length="62841645" type="audio/mpeg"/>
-      <guid isPermaLink="false">Purim： The Final Showdown： The Bears vs The Eagles - Achashverosh, Stalin &amp; The USSR - R Duvi B.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:36:15 -0000</pubDate>
-      <itunes:duration>01:05:27</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rosh Hashanah： If You Have Peace, You Have Everything - Rabbi Duvi</title>
-      <description>Rosh Hashanah： If You Have Peace, You Have Everything - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Rosh%20Hashanah%EF%BC%9A%20If%20You%20Have%20Peace%2C%20You%20Have%20Everything%20-%20Rabbi%20Duvi.mp3" length="89964333" type="audio/mpeg"/>
-      <guid isPermaLink="false">Rosh Hashanah： If You Have Peace, You Have Everything - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:37:32 -0000</pubDate>
-      <itunes:duration>01:33:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Arch of Titus - Plus the Incredible Sightings in The Depository of The Vatican - Rabbi Duvi</title>
-      <description>The Arch of Titus - Plus the Incredible Sightings in The Depository of The Vatican - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Arch%20of%20Titus%20-%20Plus%20the%20Incredible%20Sightings%20in%20The%20Depository%20of%20The%20Vatican%20-%20Rabbi%20Duvi.mp3" length="58516653" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Arch of Titus - Plus the Incredible Sightings in The Depository of The Vatican - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:39:04 -0000</pubDate>
-      <itunes:duration>01:00:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Month of Adar &amp; The Untold Story About Haman’s Great Grandson - Rabbi Duvi</title>
-      <description>The Month of Adar &amp; The Untold Story About Haman’s Great Grandson - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Month%20of%20Adar%20%26%20The%20Untold%20Story%20About%20Haman%E2%80%99s%20Great%20Grandson%20-%20Rabbi%20Duvi.mp3" length="75020973" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Month of Adar &amp; The Untold Story About Haman’s Great Grandson - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:40:08 -0000</pubDate>
-      <itunes:duration>01:18:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bitachon Part 8 - Rabbi Duvi Bensoussan</title>
-      <description>Bitachon Part 8 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%208%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="48801069" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bitachon Part 8 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:41:17 -0000</pubDate>
-      <itunes:duration>00:50:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>“The Bechukotai Shmuz： What Brought Down the Giants？ The Proper Respect for a Chavruta &amp; a Wife”</title>
-      <description>“The Bechukotai Shmuz： What Brought Down the Giants？ The Proper Respect for a Chavruta &amp; a Wife”</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/%E2%80%9CThe%20Bechukotai%20Shmuz%EF%BC%9A%20What%20Brought%20Down%20the%20Giants%EF%BC%9F%20The%20Proper%20Respect%20for%20a%20Chavruta%20%26%20a%20Wife%E2%80%9D.mp3" length="58832685" type="audio/mpeg"/>
-      <guid isPermaLink="false">“The Bechukotai Shmuz： What Brought Down the Giants？ The Proper Respect for a Chavruta &amp; a Wife”.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:42:09 -0000</pubDate>
-      <itunes:duration>01:01:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Purim： Recapture Our greatest Blessings - Torah Appreciation Melave Malka - Rabbi Duvi Bensoussan</title>
-      <description>Purim： Recapture Our greatest Blessings - Torah Appreciation Melave Malka - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Purim%EF%BC%9A%20Recapture%20Our%20greatest%20Blessings%20-%20Torah%20Appreciation%20Melave%20Malka%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="38790189" type="audio/mpeg"/>
-      <guid isPermaLink="false">Purim： Recapture Our greatest Blessings - Torah Appreciation Melave Malka - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:43:11 -0000</pubDate>
-      <itunes:duration>00:40:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Shovavim： Rav Shimshon M’astrapole Reveals the secret Gift Yaakov Avinu gave Yosef and Klal Yisrael</title>
-      <description>Shovavim： Rav Shimshon M’astrapole Reveals the secret Gift Yaakov Avinu gave Yosef and Klal Yisrael</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Shovavim%EF%BC%9A%20Rav%20Shimshon%20M%E2%80%99astrapole%20Reveals%20the%20secret%20Gift%20Yaakov%20Avinu%20gave%20Yosef%20and%20Klal%20Yisrael.mp3" length="62831277" type="audio/mpeg"/>
-      <guid isPermaLink="false">Shovavim： Rav Shimshon M’astrapole Reveals the secret Gift Yaakov Avinu gave Yosef and Klal Yisrael.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:44:01 -0000</pubDate>
-      <itunes:duration>01:05:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>ELUL EQUALS ABBA - Rabbi Duvi</title>
-      <description>ELUL EQUALS ABBA - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/ELUL%20EQUALS%20ABBA%20-%20Rabbi%20Duvi.mp3" length="58145325" type="audio/mpeg"/>
-      <guid isPermaLink="false">ELUL EQUALS ABBA - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:44:59 -0000</pubDate>
-      <itunes:duration>01:00:34</itunes:duration>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Rabbi Duvi Bensoussan</title>
+    <description>Torah shiurim in English with Rabbi Duvi Bensoussan. Parsha, emunah, mussar, Sephardic halacha and practical guidance for everyday Jewish life - Otzar HaTorah.</description>
+    <itunes:summary>Torah shiurim in English with Rabbi Duvi Bensoussan. Parsha, emunah, mussar, Sephardic halacha and practical guidance for everyday Jewish life - Otzar HaTorah.</itunes:summary>
+    <link>https://rabmeireliyahu.github.io/bensoussan</link>
+    <language>en</language>
+    <itunes:author>Rabbi Duvi Bensoussan</itunes:author>
+    <itunes:owner>
+      <itunes:name>Rabbi Duvi Bensoussan</itunes:name>
+      <itunes:email>rabmeireliyahu@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/bensoussan/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>How To Connect To Teens Amazing Story - Rabbi Duvi</title>
+      <description>How To Connect To Teens Amazing Story - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/How%20To%20Connect%20To%20Teens%20Amazing%20Story%20-%20Rabbi%20Duvi.mp3" length="16472109" type="audio/mpeg"/>
+      <guid isPermaLink="false">How To Connect To Teens Amazing Story - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 00:55:03 -0000</pubDate>
+      <itunes:duration>00:17:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Saving Our Teens From Dangers Of Social Media!!! - Rabbi Duvi</title>
+      <description>Saving Our Teens From Dangers Of Social Media!!! - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Saving%20Our%20Teens%20From%20Dangers%20Of%20Social%20Media%21%21%21%20-%20Rabbi%20Duvi.mp3" length="64449069" type="audio/mpeg"/>
+      <guid isPermaLink="false">Saving Our Teens From Dangers Of Social Media!!! - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 00:55:29 -0000</pubDate>
+      <itunes:duration>01:07:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Secret to Jewish Survival - Rabbi Duvi (2016)</title>
+      <description>The Secret to Jewish Survival - Rabbi Duvi (2016)</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Secret%20to%20Jewish%20Survival%20-%20Rabbi%20Duvi%20%282016%29.mp3" length="72352557" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Secret to Jewish Survival - Rabbi Duvi (2016).mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 00:56:59 -0000</pubDate>
+      <itunes:duration>01:15:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Loneliness vs The Need To Be Great - Rabbi Duvi</title>
+      <description>Loneliness vs The Need To Be Great - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Loneliness%20vs%20The%20Need%20To%20Be%20Great%20-%20Rabbi%20Duvi.mp3" length="67145133" type="audio/mpeg"/>
+      <guid isPermaLink="false">Loneliness vs The Need To Be Great - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 00:58:21 -0000</pubDate>
+      <itunes:duration>01:09:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Promise Never to Marry Another Amazing Story - Rabbi Duvi</title>
+      <description>The Promise Never to Marry Another Amazing Story - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Promise%20Never%20to%20Marry%20Another%20Amazing%20Story%20-%20Rabbi%20Duvi.mp3" length="13893549" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Promise Never to Marry Another Amazing Story - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 00:59:34 -0000</pubDate>
+      <itunes:duration>00:14:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Need To Be Great - Rabbi Duvi</title>
+      <description>The Need To Be Great - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Need%20To%20Be%20Great%20-%20Rabbi%20Duvi.mp3" length="39475629" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Need To Be Great - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 00:59:52 -0000</pubDate>
+      <itunes:duration>00:41:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bet Halevi： My Plan vs Hashem’s Plan - The Master Key of Bitachon - Rabbi Duvi Bensoussan</title>
+      <description>Bet Halevi： My Plan vs Hashem’s Plan - The Master Key of Bitachon - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bet%20Halevi%EF%BC%9A%20My%20Plan%20vs%20Hashem%E2%80%99s%20Plan%20-%20The%20Master%20Key%20of%20Bitachon%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="54394029" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bet Halevi： My Plan vs Hashem’s Plan - The Master Key of Bitachon - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:00:30 -0000</pubDate>
+      <itunes:duration>00:56:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How I Fell 104ft at 82mph and Was Caught in a Pair of Tzitzit - Rabbi Duvi Bensoussan</title>
+      <description>How I Fell 104ft at 82mph and Was Caught in a Pair of Tzitzit - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/How%20I%20Fell%20104ft%20at%2082mph%20and%20Was%20Caught%20in%20a%20Pair%20of%20Tzitzit%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="14932269" type="audio/mpeg"/>
+      <guid isPermaLink="false">How I Fell 104ft at 82mph and Was Caught in a Pair of Tzitzit - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:01:17 -0000</pubDate>
+      <itunes:duration>00:15:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sefirat Haomer R' Zecharya Wallerstein Zt”l - Secret Behind The 24000 Students of R' Akiva &amp; Zimri</title>
+      <description>Sefirat Haomer R' Zecharya Wallerstein Zt”l - Secret Behind The 24000 Students of R' Akiva &amp; Zimri</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Sefirat%20Haomer%20R%27%20Zecharya%20Wallerstein%20Zt%E2%80%9Dl%20-%20Secret%20Behind%20The%2024000%20Students%20of%20R%27%20Akiva%20%26%20Zimri.mp3" length="57861933" type="audio/mpeg"/>
+      <guid isPermaLink="false">Sefirat Haomer R' Zecharya Wallerstein Zt”l - Secret Behind The 24000 Students of R' Akiva &amp; Zimri.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:01:41 -0000</pubDate>
+      <itunes:duration>01:00:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Generation of Mashiach - The Generation of The Closed Door Society - Rabbi Duvi Bensoussan</title>
+      <description>The Generation of Mashiach - The Generation of The Closed Door Society - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Generation%20of%20Mashiach%20-%20The%20Generation%20of%20The%20Closed%20Door%20Society%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="58636077" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Generation of Mashiach - The Generation of The Closed Door Society - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:03:14 -0000</pubDate>
+      <itunes:duration>01:01:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bet Halevi： Bitachon #2： Nothing to Fear but Fear itself - The Story of the Elevator in The Leonardo</title>
+      <description>Bet Halevi： Bitachon #2： Nothing to Fear but Fear itself - The Story of the Elevator in The Leonardo</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bet%20Halevi%EF%BC%9A%20Bitachon%20%232%EF%BC%9A%20Nothing%20to%20Fear%20but%20Fear%20itself%20-%20The%20Story%20of%20the%20Elevator%20in%20The%20Leonardo.mp3" length="66385965" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bet Halevi： Bitachon #2： Nothing to Fear but Fear itself - The Story of the Elevator in The Leonardo.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:04:10 -0000</pubDate>
+      <itunes:duration>01:09:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Arizal Reveals： How to Open The Heavens to Accept Your Tefillot - Rabbi Duvi</title>
+      <description>The Arizal Reveals： How to Open The Heavens to Accept Your Tefillot - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Arizal%20Reveals%EF%BC%9A%20How%20to%20Open%20The%20Heavens%20to%20Accept%20Your%20Tefillot%20-%20Rabbi%20Duvi.mp3" length="48945453" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Arizal Reveals： How to Open The Heavens to Accept Your Tefillot - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:05:11 -0000</pubDate>
+      <itunes:duration>00:50:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>SEEING THE IMPOSSIBLE - Rabbi Duvi</title>
+      <description>SEEING THE IMPOSSIBLE - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/SEEING%20THE%20IMPOSSIBLE%20-%20Rabbi%20Duvi.mp3" length="9888813" type="audio/mpeg"/>
+      <guid isPermaLink="false">SEEING THE IMPOSSIBLE - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:05:56 -0000</pubDate>
+      <itunes:duration>00:10:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bet Halevi： Bitachon #5： Who Do You Rely On？ - Rabbi Duvi Bensoussan</title>
+      <description>Bet Halevi： Bitachon #5： Who Do You Rely On？ - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bet%20Halevi%EF%BC%9A%20Bitachon%20%235%EF%BC%9A%20Who%20Do%20You%20Rely%20On%EF%BC%9F%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="67567149" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bet Halevi： Bitachon #5： Who Do You Rely On？ - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:06:15 -0000</pubDate>
+      <itunes:duration>01:10:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bet Halevi： Bitachon #3： Empowering Who We Believe in - The Secret of Pop Pop - R'  Duvi Bensoussan</title>
+      <description>Bet Halevi： Bitachon #3： Empowering Who We Believe in - The Secret of Pop Pop - R'  Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bet%20Halevi%EF%BC%9A%20Bitachon%20%233%EF%BC%9A%20Empowering%20Who%20We%20Believe%20in%20-%20The%20Secret%20of%20Pop%20Pop%20-%20R%27%20%20Duvi%20Bensoussan.mp3" length="56855853" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bet Halevi： Bitachon #3： Empowering Who We Believe in - The Secret of Pop Pop - R'  Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:07:25 -0000</pubDate>
+      <itunes:duration>00:59:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How to Get Hashem to Save You From Big Troubles - The Barber from Netanya Story - Rabbi Duvi</title>
+      <description>How to Get Hashem to Save You From Big Troubles - The Barber from Netanya Story - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/How%20to%20Get%20Hashem%20to%20Save%20You%20From%20Big%20Troubles%20-%20The%20Barber%20from%20Netanya%20Story%20-%20Rabbi%20Duvi.mp3" length="56492589" type="audio/mpeg"/>
+      <guid isPermaLink="false">How to Get Hashem to Save You From Big Troubles - The Barber from Netanya Story - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:08:24 -0000</pubDate>
+      <itunes:duration>00:58:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>We’re In A Free Country, What Is There to Cry About  - Rabbi Duvi (2014)</title>
+      <description>We’re In A Free Country, What Is There to Cry About  - Rabbi Duvi (2014)</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/We%E2%80%99re%20In%20A%20Free%20Country%2C%20What%20Is%20There%20to%20Cry%20About%20%20-%20Rabbi%20Duvi%20%282014%29.mp3" length="55476525" type="audio/mpeg"/>
+      <guid isPermaLink="false">We’re In A Free Country, What Is There to Cry About  - Rabbi Duvi (2014).mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:09:24 -0000</pubDate>
+      <itunes:duration>00:57:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bitachon Part 6 - Rabbi Duvi Bensoussan</title>
+      <description>Bitachon Part 6 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%206%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="54177069" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bitachon Part 6 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:10:18 -0000</pubDate>
+      <itunes:duration>00:56:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Great Focus on Good - The building blocks of Man - Rabbi Duvi Bensoussan</title>
+      <description>The Great Focus on Good - The building blocks of Man - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Great%20Focus%20on%20Good%20-%20The%20building%20blocks%20of%20Man%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="65656749" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Great Focus on Good - The building blocks of Man - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:11:09 -0000</pubDate>
+      <itunes:duration>01:08:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Steiplers Son, The Chazon Ish’s Nephew, Rav Elyashiv’s Son n Law - The Sar Hatorah zt”l - R Duvi</title>
+      <description>The Steiplers Son, The Chazon Ish’s Nephew, Rav Elyashiv’s Son n Law - The Sar Hatorah zt”l - R Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Steiplers%20Son%2C%20The%20Chazon%20Ish%E2%80%99s%20Nephew%2C%20Rav%20Elyashiv%E2%80%99s%20Son%20n%20Law%20-%20The%20Sar%20Hatorah%20zt%E2%80%9Dl%20-%20R%20Duvi.mp3" length="33629997" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Steiplers Son, The Chazon Ish’s Nephew, Rav Elyashiv’s Son n Law - The Sar Hatorah zt”l - R Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:12:10 -0000</pubDate>
+      <itunes:duration>00:35:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shocking Truth： How Your Words Create Your Reality! - Rabbi Duvi</title>
+      <description>Shocking Truth： How Your Words Create Your Reality! - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Shocking%20Truth%EF%BC%9A%20How%20Your%20Words%20Create%20Your%20Reality%21%20-%20Rabbi%20Duvi.mp3" length="38046765" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shocking Truth： How Your Words Create Your Reality! - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:12:43 -0000</pubDate>
+      <itunes:duration>00:39:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Budapest Hungary, Our Miracles and Adventure on the Way to Rav Shayell’e Yartzeit - Rabbi Duvi</title>
+      <description>Budapest Hungary, Our Miracles and Adventure on the Way to Rav Shayell’e Yartzeit - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Budapest%20Hungary%2C%20Our%20Miracles%20and%20Adventure%20on%20the%20Way%20to%20Rav%20Shayell%E2%80%99e%20Yartzeit%20-%20Rabbi%20Duvi.mp3" length="63447213" type="audio/mpeg"/>
+      <guid isPermaLink="false">Budapest Hungary, Our Miracles and Adventure on the Way to Rav Shayell’e Yartzeit - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:13:24 -0000</pubDate>
+      <itunes:duration>01:06:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Avraham Cried a Little - How to Keep Your Composure When Your Falling Apart - Rabbi Duvi</title>
+      <description>Avraham Cried a Little - How to Keep Your Composure When Your Falling Apart - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Avraham%20Cried%20a%20Little%20-%20How%20to%20Keep%20Your%20Composure%20When%20Your%20Falling%20Apart%20-%20Rabbi%20Duvi.mp3" length="47619501" type="audio/mpeg"/>
+      <guid isPermaLink="false">Avraham Cried a Little - How to Keep Your Composure When Your Falling Apart - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:14:27 -0000</pubDate>
+      <itunes:duration>00:49:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Yetzer Hara’s Deadliest Secret Technique Against Us… The Inch! - Rabbi Duvi</title>
+      <description>The Yetzer Hara’s Deadliest Secret Technique Against Us… The Inch! - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Yetzer%20Hara%E2%80%99s%20Deadliest%20Secret%20Technique%20Against%20Us%E2%80%A6%20The%20Inch%21%20-%20Rabbi%20Duvi.mp3" length="52312749" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Yetzer Hara’s Deadliest Secret Technique Against Us… The Inch! - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:15:13 -0000</pubDate>
+      <itunes:duration>00:54:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tisha Bav 2021： Mashiach vs It’s All About Me Syndrome - Rabbi Duvi</title>
+      <description>Tisha Bav 2021： Mashiach vs It’s All About Me Syndrome - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Tisha%20Bav%202021%EF%BC%9A%20Mashiach%20vs%20It%E2%80%99s%20All%20About%20Me%20Syndrome%20-%20Rabbi%20Duvi.mp3" length="77210925" type="audio/mpeg"/>
+      <guid isPermaLink="false">Tisha Bav 2021： Mashiach vs It’s All About Me Syndrome - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:16:10 -0000</pubDate>
+      <itunes:duration>01:20:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bitachon Part 3 - Rabbi Duvi Bensoussan</title>
+      <description>Bitachon Part 3 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%203%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="55377069" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bitachon Part 3 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:17:28 -0000</pubDate>
+      <itunes:duration>00:57:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Moshe Rabenu Yearning for Israel, The Only Antidote to the Meraglim Syndrome - Rabbi Duvi Bensoussan</title>
+      <description>Moshe Rabenu Yearning for Israel, The Only Antidote to the Meraglim Syndrome - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Moshe%20Rabenu%20Yearning%20for%20Israel%2C%20The%20Only%20Antidote%20to%20the%20Meraglim%20Syndrome%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="40637613" type="audio/mpeg"/>
+      <guid isPermaLink="false">Moshe Rabenu Yearning for Israel, The Only Antidote to the Meraglim Syndrome - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:18:17 -0000</pubDate>
+      <itunes:duration>00:42:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bet Halevi： Bitachon #4： Moshe Rabenu - Rav Hirsch’s Revelation of How Tefilla Elevates You - R Duvi</title>
+      <description>Bet Halevi： Bitachon #4： Moshe Rabenu - Rav Hirsch’s Revelation of How Tefilla Elevates You - R Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bet%20Halevi%EF%BC%9A%20Bitachon%20%234%EF%BC%9A%20Moshe%20Rabenu%20-%20Rav%20Hirsch%E2%80%99s%20Revelation%20of%20How%20Tefilla%20Elevates%20You%20-%20R%20Duvi.mp3" length="64148013" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bet Halevi： Bitachon #4： Moshe Rabenu - Rav Hirsch’s Revelation of How Tefilla Elevates You - R Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:19:24 -0000</pubDate>
+      <itunes:duration>01:06:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Do You Need a Yeshua？ - The Bitachon Recipe - Kriyat Yam Suf - Rabbi Duvi</title>
+      <description>Do You Need a Yeshua？ - The Bitachon Recipe - Kriyat Yam Suf - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Do%20You%20Need%20a%20Yeshua%EF%BC%9F%20-%20The%20Bitachon%20Recipe%20-%20Kriyat%20Yam%20Suf%20-%20Rabbi%20Duvi.mp3" length="64938669" type="audio/mpeg"/>
+      <guid isPermaLink="false">Do You Need a Yeshua？ - The Bitachon Recipe - Kriyat Yam Suf - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:20:30 -0000</pubDate>
+      <itunes:duration>01:07:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Corona vs The Kashrut Promise - Kosher Deli Pastrami Sandwiches - Rabbi Duvi</title>
+      <description>Corona vs The Kashrut Promise - Kosher Deli Pastrami Sandwiches - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Corona%20vs%20The%20Kashrut%20Promise%20-%20Kosher%20Deli%20Pastrami%20Sandwiches%20-%20Rabbi%20Duvi.mp3" length="36819885" type="audio/mpeg"/>
+      <guid isPermaLink="false">Corona vs The Kashrut Promise - Kosher Deli Pastrami Sandwiches - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:21:30 -0000</pubDate>
+      <itunes:duration>00:38:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bitachon Part 4 - Rabbi Duvi Bensoussan</title>
+      <description>Bitachon Part 4 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%204%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="52177197" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bitachon Part 4 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:22:04 -0000</pubDate>
+      <itunes:duration>00:54:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Nasso： Every Man Has a Redeemer - You’ll Never look at your Children the Same Again - Rabbi Duvi</title>
+      <description>Nasso： Every Man Has a Redeemer - You’ll Never look at your Children the Same Again - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Nasso%EF%BC%9A%20Every%20Man%20Has%20a%20Redeemer%20-%20You%E2%80%99ll%20Never%20look%20at%20your%20Children%20the%20Same%20Again%20-%20Rabbi%20Duvi.mp3" length="42182829" type="audio/mpeg"/>
+      <guid isPermaLink="false">Nasso： Every Man Has a Redeemer - You’ll Never look at your Children the Same Again - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:22:47 -0000</pubDate>
+      <itunes:duration>00:43:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Why The Snake Didn't Go After Adam - Amazing Story Of Rabbi Who Refused To Go Blind - Rabbi Duvi</title>
+      <description>Why The Snake Didn't Go After Adam - Amazing Story Of Rabbi Who Refused To Go Blind - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Why%20The%20Snake%20Didn%27t%20Go%20After%20Adam%20-%20Amazing%20Story%20Of%20Rabbi%20Who%20Refused%20To%20Go%20Blind%20-%20Rabbi%20Duvi.mp3" length="54158253" type="audio/mpeg"/>
+      <guid isPermaLink="false">Why The Snake Didn't Go After Adam - Amazing Story Of Rabbi Who Refused To Go Blind - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:23:25 -0000</pubDate>
+      <itunes:duration>00:56:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pesach： The Night I Chose You! The Secret to True Freedom! - Rabbi Duvi Bensoussan</title>
+      <description>Pesach： The Night I Chose You! The Secret to True Freedom! - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Pesach%EF%BC%9A%20The%20Night%20I%20Chose%20You%21%20The%20Secret%20to%20True%20Freedom%21%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="69210285" type="audio/mpeg"/>
+      <guid isPermaLink="false">Pesach： The Night I Chose You! The Secret to True Freedom! - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:24:44 -0000</pubDate>
+      <itunes:duration>01:12:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Chazon Ish Defines BITACHON - The Secret Behind Nachshon &amp; The Umbrella - Rabbi Duvi</title>
+      <description>The Chazon Ish Defines BITACHON - The Secret Behind Nachshon &amp; The Umbrella - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Chazon%20Ish%20Defines%20BITACHON%20-%20The%20Secret%20Behind%20Nachshon%20%26%20The%20Umbrella%20-%20Rabbi%20Duvi.mp3" length="43629357" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Chazon Ish Defines BITACHON - The Secret Behind Nachshon &amp; The Umbrella - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:25:46 -0000</pubDate>
+      <itunes:duration>00:45:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bitachon Part 5 - Rabbi Duvi Bensoussan</title>
+      <description>Bitachon Part 5 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%205%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="54529197" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bitachon Part 5 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:26:30 -0000</pubDate>
+      <itunes:duration>00:56:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pesach： The Three Keys of Wealth - The Secret for Chen - revealed by Rav Shamshon Refael Hirsch zt”l</title>
+      <description>Pesach： The Three Keys of Wealth - The Secret for Chen - revealed by Rav Shamshon Refael Hirsch zt”l</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Pesach%EF%BC%9A%20The%20Three%20Keys%20of%20Wealth%20-%20The%20Secret%20for%20Chen%20-%20revealed%20by%20Rav%20Shamshon%20Refael%20Hirsch%20zt%E2%80%9Dl.mp3" length="73001133" type="audio/mpeg"/>
+      <guid isPermaLink="false">Pesach： The Three Keys of Wealth - The Secret for Chen - revealed by Rav Shamshon Refael Hirsch zt”l.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:27:23 -0000</pubDate>
+      <itunes:duration>01:16:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Incredible Secrets behind Me’arat Hamachpela and the Power of 400 - Rabbi Duvi</title>
+      <description>The Incredible Secrets behind Me’arat Hamachpela and the Power of 400 - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Incredible%20Secrets%20behind%20Me%E2%80%99arat%20Hamachpela%20and%20the%20Power%20of%20400%20-%20Rabbi%20Duvi.mp3" length="43294125" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Incredible Secrets behind Me’arat Hamachpela and the Power of 400 - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:28:29 -0000</pubDate>
+      <itunes:duration>00:45:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Secret Behind How Shabbat Neutralizes Our Enemies - Rabbi Duvi</title>
+      <description>The Secret Behind How Shabbat Neutralizes Our Enemies - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Secret%20Behind%20How%20Shabbat%20Neutralizes%20Our%20Enemies%20-%20Rabbi%20Duvi.mp3" length="74135085" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Secret Behind How Shabbat Neutralizes Our Enemies - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:29:19 -0000</pubDate>
+      <itunes:duration>01:17:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bitachon Part 7 - Rabbi Duvi Bensoussan</title>
+      <description>Bitachon Part 7 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%207%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="43072941" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bitachon Part 7 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:30:31 -0000</pubDate>
+      <itunes:duration>00:44:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shavuot： Are You Ready to Sacrifice for Your Learning - The Incredible Story of The Romanian Bulldog</title>
+      <description>Shavuot： Are You Ready to Sacrifice for Your Learning - The Incredible Story of The Romanian Bulldog</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Shavuot%EF%BC%9A%20Are%20You%20Ready%20to%20Sacrifice%20for%20Your%20Learning%20-%20The%20Incredible%20Story%20of%20The%20Romanian%20Bulldog.mp3" length="65922093" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shavuot： Are You Ready to Sacrifice for Your Learning - The Incredible Story of The Romanian Bulldog.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:31:15 -0000</pubDate>
+      <itunes:duration>01:08:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shavuot： The Essence of Torah - The Torah Alcoholic vs The Game of Monopoly - Rabbi Duvi Bensoussan</title>
+      <description>Shavuot： The Essence of Torah - The Torah Alcoholic vs The Game of Monopoly - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Shavuot%EF%BC%9A%20The%20Essence%20of%20Torah%20-%20The%20Torah%20Alcoholic%20vs%20The%20Game%20of%20Monopoly%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="60098349" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shavuot： The Essence of Torah - The Torah Alcoholic vs The Game of Monopoly - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:32:31 -0000</pubDate>
+      <itunes:duration>01:02:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bitachon 6 Keristir BudapestTrip 5782The Inspiring Role Our Tzaddikim Play in Our Bitachon in Hashem</title>
+      <description>Bitachon 6 Keristir BudapestTrip 5782The Inspiring Role Our Tzaddikim Play in Our Bitachon in Hashem</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%206%20Keristir%20BudapestTrip%205782The%20Inspiring%20Role%20Our%20Tzaddikim%20Play%20in%20Our%20Bitachon%20in%20Hashem.mp3" length="69901101" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bitachon 6 Keristir BudapestTrip 5782The Inspiring Role Our Tzaddikim Play in Our Bitachon in Hashem.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:33:40 -0000</pubDate>
+      <itunes:duration>01:12:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bullet Proof Vest - Rabbi Duvi</title>
+      <description>Bullet Proof Vest - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bullet%20Proof%20Vest%20-%20Rabbi%20Duvi.mp3" length="10489389" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bullet Proof Vest - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:34:41 -0000</pubDate>
+      <itunes:duration>00:10:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Miami Safra Shul Chizuk Event： The Staff of Mashiach - Rabbi Duvi</title>
+      <description>The Miami Safra Shul Chizuk Event： The Staff of Mashiach - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Miami%20Safra%20Shul%20Chizuk%20Event%EF%BC%9A%20The%20Staff%20of%20Mashiach%20-%20Rabbi%20Duvi.mp3" length="83741613" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Miami Safra Shul Chizuk Event： The Staff of Mashiach - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:35:00 -0000</pubDate>
+      <itunes:duration>01:27:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Purim： The Final Showdown： The Bears vs The Eagles - Achashverosh, Stalin &amp; The USSR - R Duvi B</title>
+      <description>Purim： The Final Showdown： The Bears vs The Eagles - Achashverosh, Stalin &amp; The USSR - R Duvi B</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Purim%EF%BC%9A%20The%20Final%20Showdown%EF%BC%9A%20The%20Bears%20vs%20The%20Eagles%20-%20Achashverosh%2C%20Stalin%20%26%20The%20USSR%20-%20R%20Duvi%20B.mp3" length="62841645" type="audio/mpeg"/>
+      <guid isPermaLink="false">Purim： The Final Showdown： The Bears vs The Eagles - Achashverosh, Stalin &amp; The USSR - R Duvi B.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:36:15 -0000</pubDate>
+      <itunes:duration>01:05:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rosh Hashanah： If You Have Peace, You Have Everything - Rabbi Duvi</title>
+      <description>Rosh Hashanah： If You Have Peace, You Have Everything - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Rosh%20Hashanah%EF%BC%9A%20If%20You%20Have%20Peace%2C%20You%20Have%20Everything%20-%20Rabbi%20Duvi.mp3" length="89964333" type="audio/mpeg"/>
+      <guid isPermaLink="false">Rosh Hashanah： If You Have Peace, You Have Everything - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:37:32 -0000</pubDate>
+      <itunes:duration>01:33:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Arch of Titus - Plus the Incredible Sightings in The Depository of The Vatican - Rabbi Duvi</title>
+      <description>The Arch of Titus - Plus the Incredible Sightings in The Depository of The Vatican - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Arch%20of%20Titus%20-%20Plus%20the%20Incredible%20Sightings%20in%20The%20Depository%20of%20The%20Vatican%20-%20Rabbi%20Duvi.mp3" length="58516653" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Arch of Titus - Plus the Incredible Sightings in The Depository of The Vatican - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:39:04 -0000</pubDate>
+      <itunes:duration>01:00:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Month of Adar &amp; The Untold Story About Haman’s Great Grandson - Rabbi Duvi</title>
+      <description>The Month of Adar &amp; The Untold Story About Haman’s Great Grandson - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Month%20of%20Adar%20%26%20The%20Untold%20Story%20About%20Haman%E2%80%99s%20Great%20Grandson%20-%20Rabbi%20Duvi.mp3" length="75020973" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Month of Adar &amp; The Untold Story About Haman’s Great Grandson - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:40:08 -0000</pubDate>
+      <itunes:duration>01:18:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bitachon Part 8 - Rabbi Duvi Bensoussan</title>
+      <description>Bitachon Part 8 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%208%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="48801069" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bitachon Part 8 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:41:17 -0000</pubDate>
+      <itunes:duration>00:50:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>“The Bechukotai Shmuz： What Brought Down the Giants？ The Proper Respect for a Chavruta &amp; a Wife”</title>
+      <description>“The Bechukotai Shmuz： What Brought Down the Giants？ The Proper Respect for a Chavruta &amp; a Wife”</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/%E2%80%9CThe%20Bechukotai%20Shmuz%EF%BC%9A%20What%20Brought%20Down%20the%20Giants%EF%BC%9F%20The%20Proper%20Respect%20for%20a%20Chavruta%20%26%20a%20Wife%E2%80%9D.mp3" length="58832685" type="audio/mpeg"/>
+      <guid isPermaLink="false">“The Bechukotai Shmuz： What Brought Down the Giants？ The Proper Respect for a Chavruta &amp; a Wife”.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:42:09 -0000</pubDate>
+      <itunes:duration>01:01:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Purim： Recapture Our greatest Blessings - Torah Appreciation Melave Malka - Rabbi Duvi Bensoussan</title>
+      <description>Purim： Recapture Our greatest Blessings - Torah Appreciation Melave Malka - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Purim%EF%BC%9A%20Recapture%20Our%20greatest%20Blessings%20-%20Torah%20Appreciation%20Melave%20Malka%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="38790189" type="audio/mpeg"/>
+      <guid isPermaLink="false">Purim： Recapture Our greatest Blessings - Torah Appreciation Melave Malka - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:43:11 -0000</pubDate>
+      <itunes:duration>00:40:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shovavim： Rav Shimshon M’astrapole Reveals the secret Gift Yaakov Avinu gave Yosef and Klal Yisrael</title>
+      <description>Shovavim： Rav Shimshon M’astrapole Reveals the secret Gift Yaakov Avinu gave Yosef and Klal Yisrael</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Shovavim%EF%BC%9A%20Rav%20Shimshon%20M%E2%80%99astrapole%20Reveals%20the%20secret%20Gift%20Yaakov%20Avinu%20gave%20Yosef%20and%20Klal%20Yisrael.mp3" length="62831277" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shovavim： Rav Shimshon M’astrapole Reveals the secret Gift Yaakov Avinu gave Yosef and Klal Yisrael.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:44:01 -0000</pubDate>
+      <itunes:duration>01:05:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ELUL EQUALS ABBA - Rabbi Duvi</title>
+      <description>ELUL EQUALS ABBA - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/ELUL%20EQUALS%20ABBA%20-%20Rabbi%20Duvi.mp3" length="58145325" type="audio/mpeg"/>
+      <guid isPermaLink="false">ELUL EQUALS ABBA - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:44:59 -0000</pubDate>
+      <itunes:duration>01:00:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Yosef Hatzadik’s Secret to Saving Our Teens Today - Rabbi Duvi</title>
+      <description>Yosef Hatzadik’s Secret to Saving Our Teens Today - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Yosef%20Hatzadik%E2%80%99s%20Secret%20to%20Saving%20Our%20Teens%20Today%20-%20Rabbi%20Duvi.mp3" length="76018989" type="audio/mpeg"/>
+      <guid isPermaLink="false">Yosef Hatzadik’s Secret to Saving Our Teens Today - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:46:01 -0000</pubDate>
+      <itunes:duration>01:19:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Year Mashiach Was Supposed to Come - The Mystery &amp; The Massacre of 5408 - Rabbi Duvi Bensoussan</title>
+      <description>The Year Mashiach Was Supposed to Come - The Mystery &amp; The Massacre of 5408 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Year%20Mashiach%20Was%20Supposed%20to%20Come%20-%20The%20Mystery%20%26%20The%20Massacre%20of%205408%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="48859437" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Year Mashiach Was Supposed to Come - The Mystery &amp; The Massacre of 5408 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:47:12 -0000</pubDate>
+      <itunes:duration>00:50:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Great Game Changer of Life - The Sweet Waters of Torah - Rabbi Duvi</title>
+      <description>The Great Game Changer of Life - The Sweet Waters of Torah - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Great%20Game%20Changer%20of%20Life%20-%20The%20Sweet%20Waters%20of%20Torah%20-%20Rabbi%20Duvi.mp3" length="66982317" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Great Game Changer of Life - The Sweet Waters of Torah - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:48:06 -0000</pubDate>
+      <itunes:duration>01:09:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Baba Sali Power of Prayer - Noah, Yosef &amp; Moshe at Safra Florida  - Rabb Duvi</title>
+      <description>The Baba Sali Power of Prayer - Noah, Yosef &amp; Moshe at Safra Florida  - Rabb Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Baba%20Sali%20Power%20of%20Prayer%20-%20Noah%2C%20Yosef%20%26%20Moshe%20at%20Safra%20Florida%20%20-%20Rabb%20Duvi.mp3" length="23403693" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Baba Sali Power of Prayer - Noah, Yosef &amp; Moshe at Safra Florida  - Rabb Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:49:12 -0000</pubDate>
+      <itunes:duration>00:24:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>I Will Be As They Will Be - The Life Changing Segula of the Rambam &amp; Rav Chaim Volozhin - Rabbi Duvi</title>
+      <description>I Will Be As They Will Be - The Life Changing Segula of the Rambam &amp; Rav Chaim Volozhin - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/I%20Will%20Be%20As%20They%20Will%20Be%20-%20The%20Life%20Changing%20Segula%20of%20the%20Rambam%20%26%20Rav%20Chaim%20Volozhin%20-%20Rabbi%20Duvi.mp3" length="49319469" type="audio/mpeg"/>
+      <guid isPermaLink="false">I Will Be As They Will Be - The Life Changing Segula of the Rambam &amp; Rav Chaim Volozhin - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:49:39 -0000</pubDate>
+      <itunes:duration>00:51:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Money Bug - Enemy of All Priorities - Rabbi Duvi</title>
+      <description>The Money Bug - Enemy of All Priorities - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Money%20Bug%20-%20Enemy%20of%20All%20Priorities%20-%20Rabbi%20Duvi.mp3" length="56758317" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Money Bug - Enemy of All Priorities - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:50:31 -0000</pubDate>
+      <itunes:duration>00:59:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bitachon Part 9 - Rabbi Duvi Bensoussan</title>
+      <description>Bitachon Part 9 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%209%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="36976941" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bitachon Part 9 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:51:21 -0000</pubDate>
+      <itunes:duration>00:38:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Secret to Unlocking the Great Keys of Wealth through Birkat Hailanot and Pesach - Rabbi Duvi</title>
+      <description>The Secret to Unlocking the Great Keys of Wealth through Birkat Hailanot and Pesach - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Secret%20to%20Unlocking%20the%20Great%20Keys%20of%20Wealth%20through%20Birkat%20Hailanot%20and%20Pesach%20-%20Rabbi%20Duvi.mp3" length="64452909" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Secret to Unlocking the Great Keys of Wealth through Birkat Hailanot and Pesach - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:52:00 -0000</pubDate>
+      <itunes:duration>01:07:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Secret Behind The Choshen - The Urim V’tumim and The Filler Stones - Rabbi Duvi Bensoussan</title>
+      <description>The Secret Behind The Choshen - The Urim V’tumim and The Filler Stones - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Secret%20Behind%20The%20Choshen%20-%20The%20Urim%20V%E2%80%99tumim%20and%20The%20Filler%20Stones%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="62579757" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Secret Behind The Choshen - The Urim V’tumim and The Filler Stones - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:53:01 -0000</pubDate>
+      <itunes:duration>01:05:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Harmony of the Home - The Rule of the Number 1 - Rabbi Duvi Bensoussan</title>
+      <description>Harmony of the Home - The Rule of the Number 1 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Harmony%20of%20the%20Home%20-%20The%20Rule%20of%20the%20Number%201%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="29762733" type="audio/mpeg"/>
+      <guid isPermaLink="false">Harmony of the Home - The Rule of the Number 1 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:54:05 -0000</pubDate>
+      <itunes:duration>00:31:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>How The Torah Was Saved Through Rebbe &amp; Antoninus! Amazing Story - Rabbi Duvi</title>
+      <description>How The Torah Was Saved Through Rebbe &amp; Antoninus! Amazing Story - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/How%20The%20Torah%20Was%20Saved%20Through%20Rebbe%20%26%20Antoninus%21%20Amazing%20Story%20-%20Rabbi%20Duvi.mp3" length="80673069" type="audio/mpeg"/>
+      <guid isPermaLink="false">How The Torah Was Saved Through Rebbe &amp; Antoninus! Amazing Story - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:54:37 -0000</pubDate>
+      <itunes:duration>01:24:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bitachon Part 10 - Rabbi Duvi Bensoussan</title>
+      <description>Bitachon Part 10 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%2010%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="51856941" type="audio/mpeg"/>
+      <guid isPermaLink="false">Bitachon Part 10 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:55:47 -0000</pubDate>
+      <itunes:duration>00:54:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Related to the Judge - Rosh Hashanah - Rabbi Duvi</title>
+      <description>Related to the Judge - Rosh Hashanah - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Related%20to%20the%20Judge%20-%20Rosh%20Hashanah%20-%20Rabbi%20Duvi.mp3" length="59057709" type="audio/mpeg"/>
+      <guid isPermaLink="false">Related to the Judge - Rosh Hashanah - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:56:40 -0000</pubDate>
+      <itunes:duration>01:01:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Chazaq Queens Chizuk Event： Saving Our PS Children - 49 Curses vs. 49 Blessings -Rabbi Duvi B</title>
+      <description>The Chazaq Queens Chizuk Event： Saving Our PS Children - 49 Curses vs. 49 Blessings -Rabbi Duvi B</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Chazaq%20Queens%20Chizuk%20Event%EF%BC%9A%20Saving%20Our%20PS%20Children%20-%2049%20Curses%20vs.%2049%20Blessings%20-Rabbi%20Duvi%20B.mp3" length="58030125" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Chazaq Queens Chizuk Event： Saving Our PS Children - 49 Curses vs. 49 Blessings -Rabbi Duvi B.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:57:34 -0000</pubDate>
+      <itunes:duration>01:00:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Power of Prayer： Fascinating Medrash - Pharaoh Davening Vatikin at The Nile - Rabbi Duvi</title>
+      <description>The Power of Prayer： Fascinating Medrash - Pharaoh Davening Vatikin at The Nile - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Power%20of%20Prayer%EF%BC%9A%20Fascinating%20Medrash%20-%20Pharaoh%20Davening%20Vatikin%20at%20The%20Nile%20-%20Rabbi%20Duvi.mp3" length="54569901" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Power of Prayer： Fascinating Medrash - Pharaoh Davening Vatikin at The Nile - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:58:29 -0000</pubDate>
+      <itunes:duration>00:56:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>GERSHON &amp; The Two Brides That Got Married The Same Night - Rabbi Duvi</title>
+      <description>GERSHON &amp; The Two Brides That Got Married The Same Night - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/GERSHON%20%26%20The%20Two%20Brides%20That%20Got%20Married%20The%20Same%20Night%20-%20Rabbi%20Duvi.mp3" length="49219629" type="audio/mpeg"/>
+      <guid isPermaLink="false">GERSHON &amp; The Two Brides That Got Married The Same Night - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 01:59:25 -0000</pubDate>
+      <itunes:duration>00:51:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chanukah Stories to Inspire - Rabbi Duvi</title>
+      <description>Chanukah Stories to Inspire - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Chanukah%20Stories%20to%20Inspire%20-%20Rabbi%20Duvi.mp3" length="11851821" type="audio/mpeg"/>
+      <guid isPermaLink="false">Chanukah Stories to Inspire - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:00:06 -0000</pubDate>
+      <itunes:duration>00:12:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Purpose of Creation - Dual Partnership - Why Yaakov and Eisav were Twins - Rabbi Duvi</title>
+      <description>The Purpose of Creation - Dual Partnership - Why Yaakov and Eisav were Twins - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Purpose%20of%20Creation%20-%20Dual%20Partnership%20-%20Why%20Yaakov%20and%20Eisav%20were%20Twins%20-%20Rabbi%20Duvi.mp3" length="53791533" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Purpose of Creation - Dual Partnership - Why Yaakov and Eisav were Twins - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:00:21 -0000</pubDate>
+      <itunes:duration>00:56:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Hidden Door of Yeshuot - The Depth behind Brit Bein Habitarim, The Akeida, Kriyat Yam Suf</title>
+      <description>The Hidden Door of Yeshuot - The Depth behind Brit Bein Habitarim, The Akeida, Kriyat Yam Suf</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Hidden%20Door%20of%20Yeshuot%20-%20The%20Depth%20behind%20Brit%20Bein%20Habitarim%2C%20The%20Akeida%2C%20Kriyat%20Yam%20Suf.mp3" length="56904237" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Hidden Door of Yeshuot - The Depth behind Brit Bein Habitarim, The Akeida, Kriyat Yam Suf.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:01:16 -0000</pubDate>
+      <itunes:duration>00:59:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Biggest Opportunity 24hrs Before Kal Nidre - Rabbi Duvi</title>
+      <description>The Biggest Opportunity 24hrs Before Kal Nidre - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Biggest%20Opportunity%2024hrs%20Before%20Kal%20Nidre%20-%20Rabbi%20Duvi.mp3" length="63448749" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Biggest Opportunity 24hrs Before Kal Nidre - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:02:17 -0000</pubDate>
+      <itunes:duration>01:06:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Elul： The Final War On Yetzer Hara - Rabbi Duvi</title>
+      <description>Elul： The Final War On Yetzer Hara - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Elul%EF%BC%9A%20The%20Final%20War%20On%20Yetzer%20Hara%20-%20Rabbi%20Duvi.mp3" length="48683949" type="audio/mpeg"/>
+      <guid isPermaLink="false">Elul： The Final War On Yetzer Hara - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:03:35 -0000</pubDate>
+      <itunes:duration>00:50:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Segula to Be Saved from All Calamities - Nishmat Kol Chai - Rabbi Duvi</title>
+      <description>The Segula to Be Saved from All Calamities - Nishmat Kol Chai - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Segula%20to%20Be%20Saved%20from%20All%20Calamities%20-%20Nishmat%20Kol%20Chai%20-%20Rabbi%20Duvi.mp3" length="74496813" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Segula to Be Saved from All Calamities - Nishmat Kol Chai - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:04:28 -0000</pubDate>
+      <itunes:duration>01:17:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Incredible Revelation of The Vilna Gaon Regarding Teshuva &amp; Geula Today - Rabbi Duvi</title>
+      <description>The Incredible Revelation of The Vilna Gaon Regarding Teshuva &amp; Geula Today - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Incredible%20Revelation%20of%20The%20Vilna%20Gaon%20Regarding%20Teshuva%20%26%20Geula%20Today%20-%20Rabbi%20Duvi.mp3" length="65169069" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Incredible Revelation of The Vilna Gaon Regarding Teshuva &amp; Geula Today - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:05:27 -0000</pubDate>
+      <itunes:duration>01:07:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Chatam Sofer’s Great Secret of How to CHANGE &amp; UPGRADE Your Mazal - Rabbi Duvi</title>
+      <description>The Chatam Sofer’s Great Secret of How to CHANGE &amp; UPGRADE Your Mazal - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Chatam%20Sofer%E2%80%99s%20Great%20Secret%20of%20How%20to%20CHANGE%20%26%20UPGRADE%20Your%20Mazal%20-%20Rabbi%20Duvi.mp3" length="51786285" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Chatam Sofer’s Great Secret of How to CHANGE &amp; UPGRADE Your Mazal - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:06:25 -0000</pubDate>
+      <itunes:duration>00:53:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The True Baal Chesed - To Perceive the Needs of People - Rabbi Duvi</title>
+      <description>The True Baal Chesed - To Perceive the Needs of People - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20True%20Baal%20Chesed%20-%20To%20Perceive%20the%20Needs%20of%20People%20-%20Rabbi%20Duvi.mp3" length="42241197" type="audio/mpeg"/>
+      <guid isPermaLink="false">The True Baal Chesed - To Perceive the Needs of People - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:07:17 -0000</pubDate>
+      <itunes:duration>00:44:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Noach vs Avraham Avinu - The Choice of Victim vs Survivor - Rabbi Duvi</title>
+      <description>Noach vs Avraham Avinu - The Choice of Victim vs Survivor - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Noach%20vs%20Avraham%20Avinu%20-%20The%20Choice%20of%20Victim%20vs%20Survivor%20-%20Rabbi%20Duvi.mp3" length="41322285" type="audio/mpeg"/>
+      <guid isPermaLink="false">Noach vs Avraham Avinu - The Choice of Victim vs Survivor - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:08:05 -0000</pubDate>
+      <itunes:duration>00:43:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Secret Behind Infusing Small Quiet Actions with an Eternity of Godliness - Rabbi Duvi</title>
+      <description>The Secret Behind Infusing Small Quiet Actions with an Eternity of Godliness - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Secret%20Behind%20Infusing%20Small%20Quiet%20Actions%20with%20an%20Eternity%20of%20Godliness%20-%20Rabbi%20Duvi.mp3" length="50889645" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Secret Behind Infusing Small Quiet Actions with an Eternity of Godliness - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:09:14 -0000</pubDate>
+      <itunes:duration>00:53:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Yom Kippur： What's Gods Promise For A Guaranteed Favorable Judgement - Rabbi Duvi</title>
+      <description>Yom Kippur： What's Gods Promise For A Guaranteed Favorable Judgement - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Yom%20Kippur%EF%BC%9A%20What%27s%20Gods%20Promise%20For%20A%20Guaranteed%20Favorable%20Judgement%20-%20Rabbi%20Duvi.mp3" length="68974893" type="audio/mpeg"/>
+      <guid isPermaLink="false">Yom Kippur： What's Gods Promise For A Guaranteed Favorable Judgement - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:10:08 -0000</pubDate>
+      <itunes:duration>01:11:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>A Plea For Our Future - Rabbi Duvi</title>
+      <description>A Plea For Our Future - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/A%20Plea%20For%20Our%20Future%20-%20Rabbi%20Duvi.mp3" length="9700269" type="audio/mpeg"/>
+      <guid isPermaLink="false">A Plea For Our Future - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:11:21 -0000</pubDate>
+      <itunes:duration>00:10:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>We Are All At War - I Put Myself In Your Hands Hashem - Ein Od Milivado - Rabbi Duvi</title>
+      <description>We Are All At War - I Put Myself In Your Hands Hashem - Ein Od Milivado - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/We%20Are%20All%20At%20War%20-%20I%20Put%20Myself%20In%20Your%20Hands%20Hashem%20-%20Ein%20Od%20Milivado%20-%20Rabbi%20Duvi.mp3" length="61677357" type="audio/mpeg"/>
+      <guid isPermaLink="false">We Are All At War - I Put Myself In Your Hands Hashem - Ein Od Milivado - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:11:37 -0000</pubDate>
+      <itunes:duration>01:04:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Shekalim： The Zera Emet Reveals the Secret to All Success - Break the Shekel in Half - R Duvi B</title>
+      <description>Shekalim： The Zera Emet Reveals the Secret to All Success - Break the Shekel in Half - R Duvi B</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Shekalim%EF%BC%9A%20The%20Zera%20Emet%20Reveals%20the%20Secret%20to%20All%20Success%20-%20Break%20the%20Shekel%20in%20Half%20-%20R%20Duvi%20B.mp3" length="68072109" type="audio/mpeg"/>
+      <guid isPermaLink="false">Shekalim： The Zera Emet Reveals the Secret to All Success - Break the Shekel in Half - R Duvi B.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:12:40 -0000</pubDate>
+      <itunes:duration>01:10:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vayishlach： The Incredible Mission in Shechem - What Dina Was Really After! - Rabbi Duvi</title>
+      <description>Vayishlach： The Incredible Mission in Shechem - What Dina Was Really After! - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Vayishlach%EF%BC%9A%20The%20Incredible%20Mission%20in%20Shechem%20-%20What%20Dina%20Was%20Really%20After%21%20-%20Rabbi%20Duvi.mp3" length="78344109" type="audio/mpeg"/>
+      <guid isPermaLink="false">Vayishlach： The Incredible Mission in Shechem - What Dina Was Really After! - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:13:53 -0000</pubDate>
+      <itunes:duration>01:21:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Assimilation - The Generation of Eagles Who Thought They Were Chickens - Rabbi Duvi</title>
+      <description>Assimilation - The Generation of Eagles Who Thought They Were Chickens - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Assimilation%20-%20The%20Generation%20of%20Eagles%20Who%20Thought%20They%20Were%20Chickens%20-%20Rabbi%20Duvi.mp3" length="52043181" type="audio/mpeg"/>
+      <guid isPermaLink="false">Assimilation - The Generation of Eagles Who Thought They Were Chickens - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:15:17 -0000</pubDate>
+      <itunes:duration>00:54:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>My Rabbi - My Father, My Mentor, My Guide - Rabbi Duvi</title>
+      <description>My Rabbi - My Father, My Mentor, My Guide - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/My%20Rabbi%20-%20My%20Father%2C%20My%20Mentor%2C%20My%20Guide%20-%20Rabbi%20Duvi.mp3" length="56025645" type="audio/mpeg"/>
+      <guid isPermaLink="false">My Rabbi - My Father, My Mentor, My Guide - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:16:13 -0000</pubDate>
+      <itunes:duration>00:58:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Story Behind The Mask - Rabbi Duvi</title>
+      <description>The Story Behind The Mask - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Story%20Behind%20The%20Mask%20-%20Rabbi%20Duvi.mp3" length="62362029" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Story Behind The Mask - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:17:26 -0000</pubDate>
+      <itunes:duration>01:04:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Yaakov &amp; Esav - Reb Meir &amp; Beruria： The Story like You’ve Never Heard it Before - Rabbi Duvi</title>
+      <description>Yaakov &amp; Esav - Reb Meir &amp; Beruria： The Story like You’ve Never Heard it Before - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Yaakov%20%26%20Esav%20-%20Reb%20Meir%20%26%20Beruria%EF%BC%9A%20The%20Story%20like%20You%E2%80%99ve%20Never%20Heard%20it%20Before%20-%20Rabbi%20Duvi.mp3" length="76750893" type="audio/mpeg"/>
+      <guid isPermaLink="false">Yaakov &amp; Esav - Reb Meir &amp; Beruria： The Story like You’ve Never Heard it Before - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:18:35 -0000</pubDate>
+      <itunes:duration>01:19:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Perashat Terumah： The Supporting Angels - The Zechut to Support Torah - Rabbi Duvi Bensoussan</title>
+      <description>Perashat Terumah： The Supporting Angels - The Zechut to Support Torah - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Perashat%20Terumah%EF%BC%9A%20The%20Supporting%20Angels%20-%20The%20Zechut%20to%20Support%20Torah%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="51712173" type="audio/mpeg"/>
+      <guid isPermaLink="false">Perashat Terumah： The Supporting Angels - The Zechut to Support Torah - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:19:56 -0000</pubDate>
+      <itunes:duration>00:53:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Yearning for Mashiach： Praying for Normal vs Praying for Geula - Rabbi Duvi</title>
+      <description>Yearning for Mashiach： Praying for Normal vs Praying for Geula - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Yearning%20for%20Mashiach%EF%BC%9A%20Praying%20for%20Normal%20vs%20Praying%20for%20Geula%20-%20Rabbi%20Duvi.mp3" length="62718765" type="audio/mpeg"/>
+      <guid isPermaLink="false">Yearning for Mashiach： Praying for Normal vs Praying for Geula - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:20:45 -0000</pubDate>
+      <itunes:duration>01:05:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>From Mount Meron to Mount Sinai - From Tragedy &amp; Silence to Unity - Rabbi Duvi</title>
+      <description>From Mount Meron to Mount Sinai - From Tragedy &amp; Silence to Unity - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/From%20Mount%20Meron%20to%20Mount%20Sinai%20-%20From%20Tragedy%20%26%20Silence%20to%20Unity%20-%20Rabbi%20Duvi.mp3" length="49352877" type="audio/mpeg"/>
+      <guid isPermaLink="false">From Mount Meron to Mount Sinai - From Tragedy &amp; Silence to Unity - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:21:52 -0000</pubDate>
+      <itunes:duration>00:51:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Yosef Hatzadik and The Ganav - From the Pit to the Palace - Ain Od Milivado - Rabbi Duvi</title>
+      <description>Yosef Hatzadik and The Ganav - From the Pit to the Palace - Ain Od Milivado - Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Yosef%20Hatzadik%20and%20The%20Ganav%20-%20From%20the%20Pit%20to%20the%20Palace%20-%20Ain%20Od%20Milivado%20-%20Rabbi%20Duvi.mp3" length="48408237" type="audio/mpeg"/>
+      <guid isPermaLink="false">Yosef Hatzadik and The Ganav - From the Pit to the Palace - Ain Od Milivado - Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:22:36 -0000</pubDate>
+      <itunes:duration>00:50:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Earth Shattering Yesod of Lifanecha that will Change your Yom Kippur - 24 hours before Kal Nidre</title>
+      <description>The Earth Shattering Yesod of Lifanecha that will Change your Yom Kippur - 24 hours before Kal Nidre</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Earth%20Shattering%20Yesod%20of%20Lifanecha%20that%20will%20Change%20your%20Yom%20Kippur%20-%2024%20hours%20before%20Kal%20Nidre.mp3" length="47778861" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Earth Shattering Yesod of Lifanecha that will Change your Yom Kippur - 24 hours before Kal Nidre.mp3</guid>
+      <pubDate>Tue, 28 Jul 2026 02:23:25 -0000</pubDate>
+      <itunes:duration>00:49:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Engaged - Shemirat Halashon Part 110 - Rabbi Duvi Bensoussan</title>
+      <description>Engaged - Shemirat Halashon Part 110 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Engaged%20-%20Shemirat%20Halashon%20Part%20110%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="4174915" type="audio/mpeg"/>
+      <guid isPermaLink="false">Engaged - Shemirat Halashon Part 110 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:03:12 -0000</pubDate>
+      <itunes:duration>00:04:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sensitive Information part 2 - Shemirat Halashon Part 109 - Rabbi Duvi Bensoussan</title>
+      <description>Sensitive Information part 2 - Shemirat Halashon Part 109 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Sensitive%20Information%20part%202%20-%20Shemirat%20Halashon%20Part%20109%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="7057624" type="audio/mpeg"/>
+      <guid isPermaLink="false">Sensitive Information part 2 - Shemirat Halashon Part 109 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:03:49 -0000</pubDate>
+      <itunes:duration>00:07:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sensitive Information - Shemirat Halashon Part 108 - Rabbi Duvi Bensoussan</title>
+      <description>Sensitive Information - Shemirat Halashon Part 108 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Sensitive%20Information%20-%20Shemirat%20Halashon%20Part%20108%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="4139217" type="audio/mpeg"/>
+      <guid isPermaLink="false">Sensitive Information - Shemirat Halashon Part 108 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:04:28 -0000</pubDate>
+      <itunes:duration>00:04:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Insubstantial Faults - Shemirat Halashon Part 107 - Rabbi Duvi Bensoussan</title>
+      <description>Insubstantial Faults - Shemirat Halashon Part 107 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Insubstantial%20Faults%20-%20Shemirat%20Halashon%20Part%20107%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="5996240" type="audio/mpeg"/>
+      <guid isPermaLink="false">Insubstantial Faults - Shemirat Halashon Part 107 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:05:09 -0000</pubDate>
+      <itunes:duration>00:06:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Difficult Partnerships - Shemirat Halashon Part 105 - Rabbi Duvi Bensoussan</title>
+      <description>Difficult Partnerships - Shemirat Halashon Part 105 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Difficult%20Partnerships%20-%20Shemirat%20Halashon%20Part%20105%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="6704338" type="audio/mpeg"/>
+      <guid isPermaLink="false">Difficult Partnerships - Shemirat Halashon Part 105 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:05:48 -0000</pubDate>
+      <itunes:duration>00:06:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Wedding Gown - Shemirat Halashon Part 104 - Rabbi Duvi Bensoussan</title>
+      <description>The Wedding Gown - Shemirat Halashon Part 104 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Wedding%20Gown%20-%20Shemirat%20Halashon%20Part%20104%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="6878470" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Wedding Gown - Shemirat Halashon Part 104 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:06:16 -0000</pubDate>
+      <itunes:duration>00:07:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Microwave Salesman - Shemirat Halashon Part 102 - Rabbi Duvi Bensoussan</title>
+      <description>The Microwave Salesman - Shemirat Halashon Part 102 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Microwave%20Salesman%20-%20Shemirat%20Halashon%20Part%20102%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="5076946" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Microwave Salesman - Shemirat Halashon Part 102 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:07:03 -0000</pubDate>
+      <itunes:duration>00:05:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The New Suit - Shemirat Halashon Part 101 - Rabbi Duvi Bensoussan</title>
+      <description>The New Suit - Shemirat Halashon Part 101 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20New%20Suit%20-%20Shemirat%20Halashon%20Part%20101%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="3223752" type="audio/mpeg"/>
+      <guid isPermaLink="false">The New Suit - Shemirat Halashon Part 101 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:07:37 -0000</pubDate>
+      <itunes:duration>00:03:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Furniture Store - Shemirat Halashon Part 100 - Rabbi Duvi Bensoussan</title>
+      <description>The Furniture Store - Shemirat Halashon Part 100 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Furniture%20Store%20-%20Shemirat%20Halashon%20Part%20100%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="6172111" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Furniture Store - Shemirat Halashon Part 100 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:08:05 -0000</pubDate>
+      <itunes:duration>00:06:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Carpool - Shemirat Halashon Part 99 - Rabbi Duvi Bensoussan</title>
+      <description>The Carpool - Shemirat Halashon Part 99 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Carpool%20-%20Shemirat%20Halashon%20Part%2099%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="5046598" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Carpool - Shemirat Halashon Part 99 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:08:38 -0000</pubDate>
+      <itunes:duration>00:05:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Revealing Damage - Shemirat Halashon Part 98 - Rabbi Duvi Bensoussan</title>
+      <description>Revealing Damage - Shemirat Halashon Part 98 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Revealing%20Damage%20-%20Shemirat%20Halashon%20Part%2098%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="4169736" type="audio/mpeg"/>
+      <guid isPermaLink="false">Revealing Damage - Shemirat Halashon Part 98 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:09:09 -0000</pubDate>
+      <itunes:duration>00:04:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The Contract - Shemirat Halashon Part 97 - Rabbi Duvi Bensoussan</title>
+      <description>The Contract - Shemirat Halashon Part 97 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Contract%20-%20Shemirat%20Halashon%20Part%2097%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="5224775" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Contract - Shemirat Halashon Part 97 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 10:09:33 -0000</pubDate>
+      <itunes:duration>00:05:26</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Partnerships in Question - Shemirat Halashon Part 106 - Rabbi Duvi Bensoussan</title>
+      <description>Partnerships in Question - Shemirat Halashon Part 106 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Partnerships%20in%20Question%20-%20Shemirat%20Halashon%20Part%20106%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="4933332" type="audio/mpeg"/>
+      <guid isPermaLink="false">Partnerships in Question - Shemirat Halashon Part 106 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 18 Aug 2026 11:40:24 -0000</pubDate>
+      <itunes:duration>00:05:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Avoiding Blame - Shemirat Halashon Part 103 - Rabbi Duvi Bensoussan</title>
+      <description>Avoiding Blame - Shemirat Halashon Part 103 - Rabbi Duvi Bensoussan</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Avoiding%20Blame%20-%20Shemirat%20Halashon%20Part%20103%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="4856138" type="audio/mpeg"/>
+      <guid isPermaLink="false">Avoiding Blame - Shemirat Halashon Part 103 - Rabbi Duvi Bensoussan.mp3</guid>
+      <pubDate>Tue, 18 Aug 2026 11:40:38 -0000</pubDate>
+      <itunes:duration>00:05:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>The 9 Days Class That Changed Peoples Lives   The King &amp; The Musician   Rabbi Duvi</title>
+      <description>The 9 Days Class That Changed Peoples Lives   The King &amp; The Musician   Rabbi Duvi</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%209%20Days%20Class%20That%20Changed%20Peoples%20Lives%20%20%20The%20King%20%26%20The%20Musician%20%20%20Rabbi%20Duvi.mp3" length="71646714" type="audio/mpeg"/>
+      <guid isPermaLink="false">The 9 Days Class That Changed Peoples Lives   The King &amp; The Musician   Rabbi Duvi.mp3</guid>
+      <pubDate>Tue, 18 Aug 2026 11:40:54 -0000</pubDate>
+      <itunes:duration>01:14:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Yosef Hatzadik’s Secret to Saving Our Teens Today - Rabbi Duvi</title>
-      <description>Yosef Hatzadik’s Secret to Saving Our Teens Today - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Yosef%20Hatzadik%E2%80%99s%20Secret%20to%20Saving%20Our%20Teens%20Today%20-%20Rabbi%20Duvi.mp3" length="76018989" type="audio/mpeg"/>
-      <guid isPermaLink="false">Yosef Hatzadik’s Secret to Saving Our Teens Today - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:46:01 -0000</pubDate>
-      <itunes:duration>01:19:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Year Mashiach Was Supposed to Come - The Mystery &amp; The Massacre of 5408 - Rabbi Duvi Bensoussan</title>
-      <description>The Year Mashiach Was Supposed to Come - The Mystery &amp; The Massacre of 5408 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Year%20Mashiach%20Was%20Supposed%20to%20Come%20-%20The%20Mystery%20%26%20The%20Massacre%20of%205408%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="48859437" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Year Mashiach Was Supposed to Come - The Mystery &amp; The Massacre of 5408 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:47:12 -0000</pubDate>
-      <itunes:duration>00:50:53</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Great Game Changer of Life - The Sweet Waters of Torah - Rabbi Duvi</title>
-      <description>The Great Game Changer of Life - The Sweet Waters of Torah - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Great%20Game%20Changer%20of%20Life%20-%20The%20Sweet%20Waters%20of%20Torah%20-%20Rabbi%20Duvi.mp3" length="66982317" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Great Game Changer of Life - The Sweet Waters of Torah - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:48:06 -0000</pubDate>
-      <itunes:duration>01:09:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Baba Sali Power of Prayer - Noah, Yosef &amp; Moshe at Safra Florida  - Rabb Duvi</title>
-      <description>The Baba Sali Power of Prayer - Noah, Yosef &amp; Moshe at Safra Florida  - Rabb Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Baba%20Sali%20Power%20of%20Prayer%20-%20Noah%2C%20Yosef%20%26%20Moshe%20at%20Safra%20Florida%20%20-%20Rabb%20Duvi.mp3" length="23403693" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Baba Sali Power of Prayer - Noah, Yosef &amp; Moshe at Safra Florida  - Rabb Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:49:12 -0000</pubDate>
-      <itunes:duration>00:24:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>I Will Be As They Will Be - The Life Changing Segula of the Rambam &amp; Rav Chaim Volozhin - Rabbi Duvi</title>
-      <description>I Will Be As They Will Be - The Life Changing Segula of the Rambam &amp; Rav Chaim Volozhin - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/I%20Will%20Be%20As%20They%20Will%20Be%20-%20The%20Life%20Changing%20Segula%20of%20the%20Rambam%20%26%20Rav%20Chaim%20Volozhin%20-%20Rabbi%20Duvi.mp3" length="49319469" type="audio/mpeg"/>
-      <guid isPermaLink="false">I Will Be As They Will Be - The Life Changing Segula of the Rambam &amp; Rav Chaim Volozhin - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:49:39 -0000</pubDate>
-      <itunes:duration>00:51:22</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Money Bug - Enemy of All Priorities - Rabbi Duvi</title>
-      <description>The Money Bug - Enemy of All Priorities - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Money%20Bug%20-%20Enemy%20of%20All%20Priorities%20-%20Rabbi%20Duvi.mp3" length="56758317" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Money Bug - Enemy of All Priorities - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:50:31 -0000</pubDate>
-      <itunes:duration>00:59:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bitachon Part 9 - Rabbi Duvi Bensoussan</title>
-      <description>Bitachon Part 9 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%209%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="36976941" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bitachon Part 9 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:51:21 -0000</pubDate>
-      <itunes:duration>00:38:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Secret to Unlocking the Great Keys of Wealth through Birkat Hailanot and Pesach - Rabbi Duvi</title>
-      <description>The Secret to Unlocking the Great Keys of Wealth through Birkat Hailanot and Pesach - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Secret%20to%20Unlocking%20the%20Great%20Keys%20of%20Wealth%20through%20Birkat%20Hailanot%20and%20Pesach%20-%20Rabbi%20Duvi.mp3" length="64452909" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Secret to Unlocking the Great Keys of Wealth through Birkat Hailanot and Pesach - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:52:00 -0000</pubDate>
-      <itunes:duration>01:07:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Secret Behind The Choshen - The Urim V’tumim and The Filler Stones - Rabbi Duvi Bensoussan</title>
-      <description>The Secret Behind The Choshen - The Urim V’tumim and The Filler Stones - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Secret%20Behind%20The%20Choshen%20-%20The%20Urim%20V%E2%80%99tumim%20and%20The%20Filler%20Stones%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="62579757" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Secret Behind The Choshen - The Urim V’tumim and The Filler Stones - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:53:01 -0000</pubDate>
-      <itunes:duration>01:05:11</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Harmony of the Home - The Rule of the Number 1 - Rabbi Duvi Bensoussan</title>
-      <description>Harmony of the Home - The Rule of the Number 1 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Harmony%20of%20the%20Home%20-%20The%20Rule%20of%20the%20Number%201%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="29762733" type="audio/mpeg"/>
-      <guid isPermaLink="false">Harmony of the Home - The Rule of the Number 1 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:54:05 -0000</pubDate>
-      <itunes:duration>00:31:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>How The Torah Was Saved Through Rebbe &amp; Antoninus! Amazing Story - Rabbi Duvi</title>
-      <description>How The Torah Was Saved Through Rebbe &amp; Antoninus! Amazing Story - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/How%20The%20Torah%20Was%20Saved%20Through%20Rebbe%20%26%20Antoninus%21%20Amazing%20Story%20-%20Rabbi%20Duvi.mp3" length="80673069" type="audio/mpeg"/>
-      <guid isPermaLink="false">How The Torah Was Saved Through Rebbe &amp; Antoninus! Amazing Story - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:54:37 -0000</pubDate>
-      <itunes:duration>01:24:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Bitachon Part 10 - Rabbi Duvi Bensoussan</title>
-      <description>Bitachon Part 10 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Bitachon%20Part%2010%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="51856941" type="audio/mpeg"/>
-      <guid isPermaLink="false">Bitachon Part 10 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:55:47 -0000</pubDate>
-      <itunes:duration>00:54:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Related to the Judge - Rosh Hashanah - Rabbi Duvi</title>
-      <description>Related to the Judge - Rosh Hashanah - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Related%20to%20the%20Judge%20-%20Rosh%20Hashanah%20-%20Rabbi%20Duvi.mp3" length="59057709" type="audio/mpeg"/>
-      <guid isPermaLink="false">Related to the Judge - Rosh Hashanah - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:56:40 -0000</pubDate>
-      <itunes:duration>01:01:31</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Chazaq Queens Chizuk Event： Saving Our PS Children - 49 Curses vs. 49 Blessings -Rabbi Duvi B</title>
-      <description>The Chazaq Queens Chizuk Event： Saving Our PS Children - 49 Curses vs. 49 Blessings -Rabbi Duvi B</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Chazaq%20Queens%20Chizuk%20Event%EF%BC%9A%20Saving%20Our%20PS%20Children%20-%2049%20Curses%20vs.%2049%20Blessings%20-Rabbi%20Duvi%20B.mp3" length="58030125" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Chazaq Queens Chizuk Event： Saving Our PS Children - 49 Curses vs. 49 Blessings -Rabbi Duvi B.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:57:34 -0000</pubDate>
-      <itunes:duration>01:00:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Power of Prayer： Fascinating Medrash - Pharaoh Davening Vatikin at The Nile - Rabbi Duvi</title>
-      <description>The Power of Prayer： Fascinating Medrash - Pharaoh Davening Vatikin at The Nile - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Power%20of%20Prayer%EF%BC%9A%20Fascinating%20Medrash%20-%20Pharaoh%20Davening%20Vatikin%20at%20The%20Nile%20-%20Rabbi%20Duvi.mp3" length="54569901" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Power of Prayer： Fascinating Medrash - Pharaoh Davening Vatikin at The Nile - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:58:29 -0000</pubDate>
-      <itunes:duration>00:56:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>GERSHON &amp; The Two Brides That Got Married The Same Night - Rabbi Duvi</title>
-      <description>GERSHON &amp; The Two Brides That Got Married The Same Night - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/GERSHON%20%26%20The%20Two%20Brides%20That%20Got%20Married%20The%20Same%20Night%20-%20Rabbi%20Duvi.mp3" length="49219629" type="audio/mpeg"/>
-      <guid isPermaLink="false">GERSHON &amp; The Two Brides That Got Married The Same Night - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 01:59:25 -0000</pubDate>
-      <itunes:duration>00:51:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Chanukah Stories to Inspire - Rabbi Duvi</title>
-      <description>Chanukah Stories to Inspire - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Chanukah%20Stories%20to%20Inspire%20-%20Rabbi%20Duvi.mp3" length="11851821" type="audio/mpeg"/>
-      <guid isPermaLink="false">Chanukah Stories to Inspire - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:00:06 -0000</pubDate>
-      <itunes:duration>00:12:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Purpose of Creation - Dual Partnership - Why Yaakov and Eisav were Twins - Rabbi Duvi</title>
-      <description>The Purpose of Creation - Dual Partnership - Why Yaakov and Eisav were Twins - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Purpose%20of%20Creation%20-%20Dual%20Partnership%20-%20Why%20Yaakov%20and%20Eisav%20were%20Twins%20-%20Rabbi%20Duvi.mp3" length="53791533" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Purpose of Creation - Dual Partnership - Why Yaakov and Eisav were Twins - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:00:21 -0000</pubDate>
-      <itunes:duration>00:56:01</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Hidden Door of Yeshuot - The Depth behind Brit Bein Habitarim, The Akeida, Kriyat Yam Suf</title>
-      <description>The Hidden Door of Yeshuot - The Depth behind Brit Bein Habitarim, The Akeida, Kriyat Yam Suf</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Hidden%20Door%20of%20Yeshuot%20-%20The%20Depth%20behind%20Brit%20Bein%20Habitarim%2C%20The%20Akeida%2C%20Kriyat%20Yam%20Suf.mp3" length="56904237" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Hidden Door of Yeshuot - The Depth behind Brit Bein Habitarim, The Akeida, Kriyat Yam Suf.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:01:16 -0000</pubDate>
-      <itunes:duration>00:59:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Biggest Opportunity 24hrs Before Kal Nidre - Rabbi Duvi</title>
-      <description>The Biggest Opportunity 24hrs Before Kal Nidre - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Biggest%20Opportunity%2024hrs%20Before%20Kal%20Nidre%20-%20Rabbi%20Duvi.mp3" length="63448749" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Biggest Opportunity 24hrs Before Kal Nidre - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:02:17 -0000</pubDate>
-      <itunes:duration>01:06:05</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Elul： The Final War On Yetzer Hara - Rabbi Duvi</title>
-      <description>Elul： The Final War On Yetzer Hara - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Elul%EF%BC%9A%20The%20Final%20War%20On%20Yetzer%20Hara%20-%20Rabbi%20Duvi.mp3" length="48683949" type="audio/mpeg"/>
-      <guid isPermaLink="false">Elul： The Final War On Yetzer Hara - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:03:35 -0000</pubDate>
-      <itunes:duration>00:50:42</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Segula to Be Saved from All Calamities - Nishmat Kol Chai - Rabbi Duvi</title>
-      <description>The Segula to Be Saved from All Calamities - Nishmat Kol Chai - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Segula%20to%20Be%20Saved%20from%20All%20Calamities%20-%20Nishmat%20Kol%20Chai%20-%20Rabbi%20Duvi.mp3" length="74496813" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Segula to Be Saved from All Calamities - Nishmat Kol Chai - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:04:28 -0000</pubDate>
-      <itunes:duration>01:17:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Incredible Revelation of The Vilna Gaon Regarding Teshuva &amp; Geula Today - Rabbi Duvi</title>
-      <description>The Incredible Revelation of The Vilna Gaon Regarding Teshuva &amp; Geula Today - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Incredible%20Revelation%20of%20The%20Vilna%20Gaon%20Regarding%20Teshuva%20%26%20Geula%20Today%20-%20Rabbi%20Duvi.mp3" length="65169069" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Incredible Revelation of The Vilna Gaon Regarding Teshuva &amp; Geula Today - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:05:27 -0000</pubDate>
-      <itunes:duration>01:07:53</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Chatam Sofer’s Great Secret of How to CHANGE &amp; UPGRADE Your Mazal - Rabbi Duvi</title>
-      <description>The Chatam Sofer’s Great Secret of How to CHANGE &amp; UPGRADE Your Mazal - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Chatam%20Sofer%E2%80%99s%20Great%20Secret%20of%20How%20to%20CHANGE%20%26%20UPGRADE%20Your%20Mazal%20-%20Rabbi%20Duvi.mp3" length="51786285" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Chatam Sofer’s Great Secret of How to CHANGE &amp; UPGRADE Your Mazal - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:06:25 -0000</pubDate>
-      <itunes:duration>00:53:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The True Baal Chesed - To Perceive the Needs of People - Rabbi Duvi</title>
-      <description>The True Baal Chesed - To Perceive the Needs of People - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20True%20Baal%20Chesed%20-%20To%20Perceive%20the%20Needs%20of%20People%20-%20Rabbi%20Duvi.mp3" length="42241197" type="audio/mpeg"/>
-      <guid isPermaLink="false">The True Baal Chesed - To Perceive the Needs of People - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:07:17 -0000</pubDate>
-      <itunes:duration>00:44:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Noach vs Avraham Avinu - The Choice of Victim vs Survivor - Rabbi Duvi</title>
-      <description>Noach vs Avraham Avinu - The Choice of Victim vs Survivor - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Noach%20vs%20Avraham%20Avinu%20-%20The%20Choice%20of%20Victim%20vs%20Survivor%20-%20Rabbi%20Duvi.mp3" length="41322285" type="audio/mpeg"/>
-      <guid isPermaLink="false">Noach vs Avraham Avinu - The Choice of Victim vs Survivor - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:08:05 -0000</pubDate>
-      <itunes:duration>00:43:02</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Secret Behind Infusing Small Quiet Actions with an Eternity of Godliness - Rabbi Duvi</title>
-      <description>The Secret Behind Infusing Small Quiet Actions with an Eternity of Godliness - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Secret%20Behind%20Infusing%20Small%20Quiet%20Actions%20with%20an%20Eternity%20of%20Godliness%20-%20Rabbi%20Duvi.mp3" length="50889645" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Secret Behind Infusing Small Quiet Actions with an Eternity of Godliness - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:09:14 -0000</pubDate>
-      <itunes:duration>00:53:00</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Yom Kippur： What's Gods Promise For A Guaranteed Favorable Judgement - Rabbi Duvi</title>
-      <description>Yom Kippur： What's Gods Promise For A Guaranteed Favorable Judgement - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Yom%20Kippur%EF%BC%9A%20What%27s%20Gods%20Promise%20For%20A%20Guaranteed%20Favorable%20Judgement%20-%20Rabbi%20Duvi.mp3" length="68974893" type="audio/mpeg"/>
-      <guid isPermaLink="false">Yom Kippur： What's Gods Promise For A Guaranteed Favorable Judgement - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:10:08 -0000</pubDate>
-      <itunes:duration>01:11:50</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>A Plea For Our Future - Rabbi Duvi</title>
-      <description>A Plea For Our Future - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/A%20Plea%20For%20Our%20Future%20-%20Rabbi%20Duvi.mp3" length="9700269" type="audio/mpeg"/>
-      <guid isPermaLink="false">A Plea For Our Future - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:11:21 -0000</pubDate>
-      <itunes:duration>00:10:06</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>We Are All At War - I Put Myself In Your Hands Hashem - Ein Od Milivado - Rabbi Duvi</title>
-      <description>We Are All At War - I Put Myself In Your Hands Hashem - Ein Od Milivado - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/We%20Are%20All%20At%20War%20-%20I%20Put%20Myself%20In%20Your%20Hands%20Hashem%20-%20Ein%20Od%20Milivado%20-%20Rabbi%20Duvi.mp3" length="61677357" type="audio/mpeg"/>
-      <guid isPermaLink="false">We Are All At War - I Put Myself In Your Hands Hashem - Ein Od Milivado - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:11:37 -0000</pubDate>
-      <itunes:duration>01:04:14</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Shekalim： The Zera Emet Reveals the Secret to All Success - Break the Shekel in Half - R Duvi B</title>
-      <description>Shekalim： The Zera Emet Reveals the Secret to All Success - Break the Shekel in Half - R Duvi B</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Shekalim%EF%BC%9A%20The%20Zera%20Emet%20Reveals%20the%20Secret%20to%20All%20Success%20-%20Break%20the%20Shekel%20in%20Half%20-%20R%20Duvi%20B.mp3" length="68072109" type="audio/mpeg"/>
-      <guid isPermaLink="false">Shekalim： The Zera Emet Reveals the Secret to All Success - Break the Shekel in Half - R Duvi B.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:12:40 -0000</pubDate>
-      <itunes:duration>01:10:54</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Vayishlach： The Incredible Mission in Shechem - What Dina Was Really After! - Rabbi Duvi</title>
-      <description>Vayishlach： The Incredible Mission in Shechem - What Dina Was Really After! - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Vayishlach%EF%BC%9A%20The%20Incredible%20Mission%20in%20Shechem%20-%20What%20Dina%20Was%20Really%20After%21%20-%20Rabbi%20Duvi.mp3" length="78344109" type="audio/mpeg"/>
-      <guid isPermaLink="false">Vayishlach： The Incredible Mission in Shechem - What Dina Was Really After! - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:13:53 -0000</pubDate>
-      <itunes:duration>01:21:36</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Assimilation - The Generation of Eagles Who Thought They Were Chickens - Rabbi Duvi</title>
-      <description>Assimilation - The Generation of Eagles Who Thought They Were Chickens - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Assimilation%20-%20The%20Generation%20of%20Eagles%20Who%20Thought%20They%20Were%20Chickens%20-%20Rabbi%20Duvi.mp3" length="52043181" type="audio/mpeg"/>
-      <guid isPermaLink="false">Assimilation - The Generation of Eagles Who Thought They Were Chickens - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:15:17 -0000</pubDate>
-      <itunes:duration>00:54:12</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>My Rabbi - My Father, My Mentor, My Guide - Rabbi Duvi</title>
-      <description>My Rabbi - My Father, My Mentor, My Guide - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/My%20Rabbi%20-%20My%20Father%2C%20My%20Mentor%2C%20My%20Guide%20-%20Rabbi%20Duvi.mp3" length="56025645" type="audio/mpeg"/>
-      <guid isPermaLink="false">My Rabbi - My Father, My Mentor, My Guide - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:16:13 -0000</pubDate>
-      <itunes:duration>00:58:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Story Behind The Mask - Rabbi Duvi</title>
-      <description>The Story Behind The Mask - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Story%20Behind%20The%20Mask%20-%20Rabbi%20Duvi.mp3" length="62362029" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Story Behind The Mask - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:17:26 -0000</pubDate>
-      <itunes:duration>01:04:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Yaakov &amp; Esav - Reb Meir &amp; Beruria： The Story like You’ve Never Heard it Before - Rabbi Duvi</title>
-      <description>Yaakov &amp; Esav - Reb Meir &amp; Beruria： The Story like You’ve Never Heard it Before - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Yaakov%20%26%20Esav%20-%20Reb%20Meir%20%26%20Beruria%EF%BC%9A%20The%20Story%20like%20You%E2%80%99ve%20Never%20Heard%20it%20Before%20-%20Rabbi%20Duvi.mp3" length="76750893" type="audio/mpeg"/>
-      <guid isPermaLink="false">Yaakov &amp; Esav - Reb Meir &amp; Beruria： The Story like You’ve Never Heard it Before - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:18:35 -0000</pubDate>
-      <itunes:duration>01:19:56</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Perashat Terumah： The Supporting Angels - The Zechut to Support Torah - Rabbi Duvi Bensoussan</title>
-      <description>Perashat Terumah： The Supporting Angels - The Zechut to Support Torah - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Perashat%20Terumah%EF%BC%9A%20The%20Supporting%20Angels%20-%20The%20Zechut%20to%20Support%20Torah%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="51712173" type="audio/mpeg"/>
-      <guid isPermaLink="false">Perashat Terumah： The Supporting Angels - The Zechut to Support Torah - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:19:56 -0000</pubDate>
-      <itunes:duration>00:53:51</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Yearning for Mashiach： Praying for Normal vs Praying for Geula - Rabbi Duvi</title>
-      <description>Yearning for Mashiach： Praying for Normal vs Praying for Geula - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Yearning%20for%20Mashiach%EF%BC%9A%20Praying%20for%20Normal%20vs%20Praying%20for%20Geula%20-%20Rabbi%20Duvi.mp3" length="62718765" type="audio/mpeg"/>
-      <guid isPermaLink="false">Yearning for Mashiach： Praying for Normal vs Praying for Geula - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:20:45 -0000</pubDate>
-      <itunes:duration>01:05:19</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>From Mount Meron to Mount Sinai - From Tragedy &amp; Silence to Unity - Rabbi Duvi</title>
-      <description>From Mount Meron to Mount Sinai - From Tragedy &amp; Silence to Unity - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/From%20Mount%20Meron%20to%20Mount%20Sinai%20-%20From%20Tragedy%20%26%20Silence%20to%20Unity%20-%20Rabbi%20Duvi.mp3" length="49352877" type="audio/mpeg"/>
-      <guid isPermaLink="false">From Mount Meron to Mount Sinai - From Tragedy &amp; Silence to Unity - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:21:52 -0000</pubDate>
-      <itunes:duration>00:51:24</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Yosef Hatzadik and The Ganav - From the Pit to the Palace - Ain Od Milivado - Rabbi Duvi</title>
-      <description>Yosef Hatzadik and The Ganav - From the Pit to the Palace - Ain Od Milivado - Rabbi Duvi</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Yosef%20Hatzadik%20and%20The%20Ganav%20-%20From%20the%20Pit%20to%20the%20Palace%20-%20Ain%20Od%20Milivado%20-%20Rabbi%20Duvi.mp3" length="48408237" type="audio/mpeg"/>
-      <guid isPermaLink="false">Yosef Hatzadik and The Ganav - From the Pit to the Palace - Ain Od Milivado - Rabbi Duvi.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:22:36 -0000</pubDate>
-      <itunes:duration>00:50:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Earth Shattering Yesod of Lifanecha that will Change your Yom Kippur - 24 hours before Kal Nidre</title>
-      <description>The Earth Shattering Yesod of Lifanecha that will Change your Yom Kippur - 24 hours before Kal Nidre</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Earth%20Shattering%20Yesod%20of%20Lifanecha%20that%20will%20Change%20your%20Yom%20Kippur%20-%2024%20hours%20before%20Kal%20Nidre.mp3" length="47778861" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Earth Shattering Yesod of Lifanecha that will Change your Yom Kippur - 24 hours before Kal Nidre.mp3</guid>
-      <pubDate>Tue, 28 Jul 2026 02:23:25 -0000</pubDate>
-      <itunes:duration>00:49:46</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Engaged - Shemirat Halashon Part 110 - Rabbi Duvi Bensoussan</title>
-      <description>Engaged - Shemirat Halashon Part 110 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Engaged%20-%20Shemirat%20Halashon%20Part%20110%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="4174915" type="audio/mpeg"/>
-      <guid isPermaLink="false">Engaged - Shemirat Halashon Part 110 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:03:12 -0000</pubDate>
-      <itunes:duration>00:04:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Sensitive Information part 2 - Shemirat Halashon Part 109 - Rabbi Duvi Bensoussan</title>
-      <description>Sensitive Information part 2 - Shemirat Halashon Part 109 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Sensitive%20Information%20part%202%20-%20Shemirat%20Halashon%20Part%20109%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="7057624" type="audio/mpeg"/>
-      <guid isPermaLink="false">Sensitive Information part 2 - Shemirat Halashon Part 109 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:03:49 -0000</pubDate>
-      <itunes:duration>00:07:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Sensitive Information - Shemirat Halashon Part 108 - Rabbi Duvi Bensoussan</title>
-      <description>Sensitive Information - Shemirat Halashon Part 108 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Sensitive%20Information%20-%20Shemirat%20Halashon%20Part%20108%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="4139217" type="audio/mpeg"/>
-      <guid isPermaLink="false">Sensitive Information - Shemirat Halashon Part 108 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:04:28 -0000</pubDate>
-      <itunes:duration>00:04:18</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Insubstantial Faults - Shemirat Halashon Part 107 - Rabbi Duvi Bensoussan</title>
-      <description>Insubstantial Faults - Shemirat Halashon Part 107 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Insubstantial%20Faults%20-%20Shemirat%20Halashon%20Part%20107%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="5996240" type="audio/mpeg"/>
-      <guid isPermaLink="false">Insubstantial Faults - Shemirat Halashon Part 107 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:05:09 -0000</pubDate>
-      <itunes:duration>00:06:14</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Difficult Partnerships - Shemirat Halashon Part 105 - Rabbi Duvi Bensoussan</title>
-      <description>Difficult Partnerships - Shemirat Halashon Part 105 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Difficult%20Partnerships%20-%20Shemirat%20Halashon%20Part%20105%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="6704338" type="audio/mpeg"/>
-      <guid isPermaLink="false">Difficult Partnerships - Shemirat Halashon Part 105 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:05:48 -0000</pubDate>
-      <itunes:duration>00:06:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Wedding Gown - Shemirat Halashon Part 104 - Rabbi Duvi Bensoussan</title>
-      <description>The Wedding Gown - Shemirat Halashon Part 104 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Wedding%20Gown%20-%20Shemirat%20Halashon%20Part%20104%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="6878470" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Wedding Gown - Shemirat Halashon Part 104 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:06:16 -0000</pubDate>
-      <itunes:duration>00:07:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Microwave Salesman - Shemirat Halashon Part 102 - Rabbi Duvi Bensoussan</title>
-      <description>The Microwave Salesman - Shemirat Halashon Part 102 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Microwave%20Salesman%20-%20Shemirat%20Halashon%20Part%20102%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="5076946" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Microwave Salesman - Shemirat Halashon Part 102 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:07:03 -0000</pubDate>
-      <itunes:duration>00:05:17</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The New Suit - Shemirat Halashon Part 101 - Rabbi Duvi Bensoussan</title>
-      <description>The New Suit - Shemirat Halashon Part 101 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20New%20Suit%20-%20Shemirat%20Halashon%20Part%20101%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="3223752" type="audio/mpeg"/>
-      <guid isPermaLink="false">The New Suit - Shemirat Halashon Part 101 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:07:37 -0000</pubDate>
-      <itunes:duration>00:03:21</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Furniture Store - Shemirat Halashon Part 100 - Rabbi Duvi Bensoussan</title>
-      <description>The Furniture Store - Shemirat Halashon Part 100 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Furniture%20Store%20-%20Shemirat%20Halashon%20Part%20100%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="6172111" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Furniture Store - Shemirat Halashon Part 100 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:08:05 -0000</pubDate>
-      <itunes:duration>00:06:25</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Carpool - Shemirat Halashon Part 99 - Rabbi Duvi Bensoussan</title>
-      <description>The Carpool - Shemirat Halashon Part 99 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Carpool%20-%20Shemirat%20Halashon%20Part%2099%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="5046598" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Carpool - Shemirat Halashon Part 99 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:08:38 -0000</pubDate>
-      <itunes:duration>00:05:15</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Revealing Damage - Shemirat Halashon Part 98 - Rabbi Duvi Bensoussan</title>
-      <description>Revealing Damage - Shemirat Halashon Part 98 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Revealing%20Damage%20-%20Shemirat%20Halashon%20Part%2098%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="4169736" type="audio/mpeg"/>
-      <guid isPermaLink="false">Revealing Damage - Shemirat Halashon Part 98 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:09:09 -0000</pubDate>
-      <itunes:duration>00:04:20</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Contract - Shemirat Halashon Part 97 - Rabbi Duvi Bensoussan</title>
-      <description>The Contract - Shemirat Halashon Part 97 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/The%20Contract%20-%20Shemirat%20Halashon%20Part%2097%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="5224775" type="audio/mpeg"/>
-      <guid isPermaLink="false">The Contract - Shemirat Halashon Part 97 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Wed, 29 Jul 2026 10:09:33 -0000</pubDate>
-      <itunes:duration>00:05:26</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Partnerships in Question - Shemirat Halashon Part 106 - Rabbi Duvi Bensoussan</title>
-      <description>Partnerships in Question - Shemirat Halashon Part 106 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Partnerships%20in%20Question%20-%20Shemirat%20Halashon%20Part%20106%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="4933332" type="audio/mpeg"/>
-      <guid isPermaLink="false">Partnerships in Question - Shemirat Halashon Part 106 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 18 Aug 2026 11:40:24 -0000</pubDate>
-      <itunes:duration>00:05:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Avoiding Blame - Shemirat Halashon Part 103 - Rabbi Duvi Bensoussan</title>
-      <description>Avoiding Blame - Shemirat Halashon Part 103 - Rabbi Duvi Bensoussan</description>
-      <enclosure url="https://op3.dev/e/https://archive.org/download/otzar-bensoussan-shiurim/Avoiding%20Blame%20-%20Shemirat%20Halashon%20Part%20103%20-%20Rabbi%20Duvi%20Bensoussan.mp3" length="4856138" type="audio/mpeg"/>
-      <guid isPermaLink="false">Avoiding Blame - Shemirat Halashon Part 103 - Rabbi Duvi Bensoussan.mp3</guid>
-      <pubDate>Tue, 18 Aug 2026 11:40:38 -0000</pubDate>
-      <itunes:duration>00:05:03</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>The 9 Days Class That Changed Peoples Lives   The King &amp; The Musician   Rabbi Duvi</title>
@@ -1005,5 +1014,6 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
-  </channel>
-</rss>
+
+  </channel>
+</rss>
